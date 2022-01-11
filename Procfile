@@ -1,1 +1,1 @@
-worker: python scraper.py
+web: gunicorn wsgi:app
