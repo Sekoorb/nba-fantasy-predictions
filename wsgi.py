@@ -1,3 +1,3 @@
-from flask_app import create_app
+from app import depth_chart_scraper
 
-app = create_app()
+app = depth_chart_scraper()

@@ -1,4 +1,4 @@
-#!/Users/chrisbrookes/nba-fantasy-predictions/virtual/bin/python3
+#!/Users/chrisbrookes/nba-fantasy-predictions/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
