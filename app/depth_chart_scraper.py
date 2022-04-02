@@ -3,6 +3,16 @@ import requests
 import urllib
 import urllib.request
 import re
+from datetime import datetime
+from pytz import timezone
+import pytz
+
+def get_pst_date():
+    date_format='%Y-%m-%d'
+    date = datetime.now(tz=pytz.utc)
+    date = date.astimezone(timezone('US/Pacific'))
+    pstDateTime=date.strftime(date_format)
+    return pstDateTime
 
 def scrape_depth():
     url = "http://www.espn.com/nba/depth/_/type/full"
@@ -34,7 +44,7 @@ def scrape_depth():
 
     first_name = []
     for i in all_players:
-        first_name.append(re.search(r'\d/(.*?)-', str(i)).group(1))
+        first_name.append((re.search(r'\d/(.*?)-', str(i)).group(1)))
 
     last_name = []
     for i, n in zip(all_players, first_name):
@@ -50,5 +60,19 @@ def scrape_depth():
             injury.append("active")
         else: 
             injury.append("injured")
+    
+    date = get_pst_date()
 
-    depth_chart = list(zip(position, first_name, last_name, injury))
+    date_list = []
+    for  i in all_players:
+        date_list.append(date)
+
+    player_names = list(zip(date_list, first_name, last_name , position))
+
+    primary_key = []
+    for i in player_names:
+        primary_key.append('-'.join(i))
+
+    depth_chart = list(zip(primary_key, date_list, position, first_name, last_name, injury))
+
+    return depth_chart
