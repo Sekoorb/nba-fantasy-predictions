@@ -18,9 +18,9 @@ cur = conn.cursor()
 args = [cur.mogrify('(%s, %s, %s, %s, %s, %s, %s, %s, %s)', i).decode('utf-8')
         for i in depth_chart_list]
 args_str = ', '.join(args)
-cur.execute('''INSERT INTO depth_chart(id, date, position, first_name, last_name, injury_status, teams, increase_rank, position_final) VALUES'''
+cur.execute('''INSERT INTO depth_chart(id, date, position, first_name, last_name, injury_status, team, increase_rank, position_final) VALUES'''
             + args_str + '''ON CONFLICT(id) DO UPDATE SET
-            (date, position, first_name, last_name, injury_status, teams, increase_rank, position_final) = (EXCLUDED.date, EXCLUDED.position, EXCLUDED.first_name, EXCLUDED.last_name, EXCLUDED.injury_status, EXCLUDED.teams, EXCLUDED.increase_rank, EXCLUDED.position_final)''')
+            (date, position, first_name, last_name, injury_status, team, increase_rank, position_final) = (EXCLUDED.date, EXCLUDED.position, EXCLUDED.first_name, EXCLUDED.last_name, EXCLUDED.injury_status, EXCLUDED.team, EXCLUDED.increase_rank, EXCLUDED.position_final)''')
 
 conn.commit()
 

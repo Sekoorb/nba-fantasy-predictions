@@ -36,13 +36,13 @@ def scrape_depth():
 
     all_players = []
     first_name = []
-    teams = []
+    team = []
     position = []
     injury_status = []
     for table in tables:
         for row in table[1:]:
             first_name.append((re.search(r'\d/(.*?)-', str(row)).group(1)))  
-            teams.append(re.search(r'"colhead"><td>(.*?)</td></tr>', str(table)).group(1))
+            team.append(re.search(r'"colhead"><td>(.*?)</td></tr>', str(table)).group(1))
             position.append(re.search(r'td>(.*) - ', str(row)).group(1))
             injury_status.append(re.search(r'(IL)', str(row)))
             all_players.append(row)
@@ -70,20 +70,20 @@ def scrape_depth():
     for  i in all_players:
         date_list.append(date)
 
-    player_names = list(zip(date_list, first_name, last_name , position, teams))
+    player_names = list(zip(date_list, first_name, last_name , position, team))
 
     primary_key = []
     for i in player_names:
         primary_key.append('-'.join(i))
  
-    depth_chart_unprocessed = list(zip(primary_key, date_list, position, first_name, last_name, injury, teams, position_rank, position_type))
+    depth_chart_unprocessed = list(zip(primary_key, date_list, position, first_name, last_name, injury, team, position_rank, position_type))
 
     df = pd.DataFrame (depth_chart_unprocessed, columns = ['primary_key', 'date', 'position', 'first_name', 
-    'last_name', 'injury', 'teams', 'position_rank', 'position_type'])
+    'last_name', 'injury', 'team', 'position_rank', 'position_type'])
 
     injured_players = df[df['injury'] == 'injured']
 
-    df_with_injured = pd.merge(df, injured_players[['teams','position_type', 'position_rank']], on=['teams','position_type'], how='outer')
+    df_with_injured = pd.merge(df, injured_players[['team','position_type', 'position_rank']], on=['team','position_type'], how='outer')
 
     df_with_injured['increase_rank'] = np.where((df_with_injured['position_rank_y'] < df_with_injured['position_rank_x']), 'yes', 'no')
 

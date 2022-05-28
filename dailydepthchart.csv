@@ -1,4 +1,4 @@
-,poistion_rank,first_name,last_name,injuryr_status
+id,first_name,last_name,position,injury_status,date,team,increase_rank,position_final
 0,PG2,delon,wright,injured
 1,PG4,lou,williams,active
 2,PG6,cam,reddish,active
