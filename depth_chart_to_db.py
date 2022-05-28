@@ -15,12 +15,12 @@ cur = conn.cursor()
 
 #cur.execute('CREATE TABLE depth_chart (id VARCHAR PRIMARY KEY, first_name VARCHAR, last_name VARCHAR, position VARCHAR, date DATE, injury_status VARCHAR);')
 
-args = [cur.mogrify('(%s, %s, %s, %s, %s, %s)', i).decode('utf-8')
+args = [cur.mogrify('(%s, %s, %s, %s, %s, %s, %s, %s, %s)', i).decode('utf-8')
         for i in depth_chart_list]
 args_str = ', '.join(args)
-cur.execute('''INSERT INTO depth_chart(id, date, position, first_name, last_name, injury_status) VALUES'''
+cur.execute('''INSERT INTO depth_chart(id, date, position, first_name, last_name, teams, injury_status, increase_rank, position_final) VALUES'''
             + args_str + '''ON CONFLICT(id) DO UPDATE SET
-            (date, position, first_name, last_name, injury_status) = (EXCLUDED.date, EXCLUDED.position, EXCLUDED.first_name, EXCLUDED.last_name, EXCLUDED.injury_status)''')
+            (date, position, first_name, last_name, teams, injury_status, increase_rank, position_final) = (EXCLUDED.date, EXCLUDED.position, EXCLUDED.first_name, EXCLUDED.last_name, EXCLUDED.teams, EXCLUDED.injury_status, EXCLUDED.increase_rank, EXCLUDED.position_final)''')
 
 conn.commit()
 
