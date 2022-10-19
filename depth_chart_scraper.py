@@ -78,22 +78,22 @@ def scrape_depth():
  
     depth_chart_unprocessed = list(zip(primary_key, date_list, position, first_name, last_name, injury, team, position_rank, position_type))
 
+
     df = pd.DataFrame (depth_chart_unprocessed, columns = ['primary_key', 'date', 'position', 'first_name', 
     'last_name', 'injury', 'team', 'position_rank', 'position_type'])
 
-    injured_players = df[df['injury'] == 'injured']
+    df['position_rank'] = df['position_rank'].astype(int)
 
-    df_with_injured = pd.merge(df, injured_players[['team','position_type', 'position_rank']], on=['team','position_type'], how='outer')
+    df['position_rank_increase'] = 0
+    for index, row in df.iterrows():
+        df.at[index,'position_rank_increase'] = df[(df['position_type'] == row['position_type']) & (df['team'] == row['team']) &
+        (df['injury'] == "injured") & (df['position_rank'] < row['position_rank'])].count()[1]
 
-    df_with_injured['increase_rank'] = np.where((df_with_injured['position_rank_y'] < df_with_injured['position_rank_x']), 'yes', 'no')
+    df['position_rank_final'] = df['position_rank'] - df['position_rank_increase']
 
-    df_with_injured['position_final'] = np.where((df_with_injured['increase_rank'] == 'yes'),
-    ((df_with_injured['position_type'].astype(str))+(df_with_injured['position_rank_x'].astype(int)-1).astype(str)), df_with_injured['position'])
+    df['position_final'] = df['position_type'].astype(str) + df['position_rank_final'].astype(str)
 
-    df_final = df_with_injured.rename(columns={'position_rank_x': 'position_rank'})
-    df_final.drop(['position_rank_y', 'position_rank', 'position_type'], inplace=True, axis=1)
-
-    tup = [tuple(a) for a in df_final.to_numpy()]
+    tup = [tuple(a) for a in df.to_numpy()]
     depth_chart = list(tup)
 
     return depth_chart

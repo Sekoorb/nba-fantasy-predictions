@@ -1,0 +1,1003 @@
+,primary_key,date,position,first_name,last_name,injury,team,position_rank,position_type,position_rank_increase,position_rank_final
+0,2022-10-16-trae-young-PG1-Atlanta,2022-10-16,PG1,trae,young,active,Atlanta,1,PG,0,1
+1,2022-10-16-aaron-holiday-PG2-Atlanta,2022-10-16,PG2,aaron,holiday,active,Atlanta,2,PG,0,2
+2,2022-10-16-dejounte-murray-PG3-Atlanta,2022-10-16,PG3,dejounte,murray,active,Atlanta,3,PG,0,3
+3,2022-10-16-bogdan-bogdanovic-PG4-Atlanta,2022-10-16,PG4,bogdan,bogdanovic,injured,Atlanta,4,PG,0,4
+4,2022-10-16-vit-krejci-PG5-Atlanta,2022-10-16,PG5,vit,krejci,active,Atlanta,5,PG,1,4
+5,2022-10-16-trent-forrest-PG6-Atlanta,2022-10-16,PG6,trent,forrest,active,Atlanta,6,PG,1,5
+6,2022-10-16-dejounte-murray-SG1-Atlanta,2022-10-16,SG1,dejounte,murray,active,Atlanta,1,SG,0,1
+7,2022-10-16-bogdan-bogdanovic-SG2-Atlanta,2022-10-16,SG2,bogdan,bogdanovic,injured,Atlanta,2,SG,0,2
+8,2022-10-16-justin-holiday-SG3-Atlanta,2022-10-16,SG3,justin,holiday,active,Atlanta,3,SG,1,2
+9,2022-10-16-aj-griffin-SG4-Atlanta,2022-10-16,SG4,aj,griffin,active,Atlanta,4,SG,1,3
+10,2022-10-16-aaron-holiday-SG5-Atlanta,2022-10-16,SG5,aaron,holiday,active,Atlanta,5,SG,1,4
+11,2022-10-16-tyrese-martin-SG6-Atlanta,2022-10-16,SG6,tyrese,martin,active,Atlanta,6,SG,1,5
+12,2022-10-16-vit-krejci-SG7-Atlanta,2022-10-16,SG7,vit,krejci,active,Atlanta,7,SG,1,6
+13,2022-10-16-jarrett-culver-SG8-Atlanta,2022-10-16,SG8,jarrett,culver,active,Atlanta,8,SG,1,7
+14,2022-10-16-trent-forrest-SG9-Atlanta,2022-10-16,SG9,trent,forrest,active,Atlanta,9,SG,1,8
+15,2022-10-16-jared-rhoden-SG10-Atlanta,2022-10-16,SG10,jared,rhoden,active,Atlanta,10,SG,1,9
+16,2022-10-16-de'andre-hunter-SF1-Atlanta,2022-10-16,SF1,de'andre,hunter,active,Atlanta,1,SF,0,1
+17,2022-10-16-bogdan-bogdanovic-SF2-Atlanta,2022-10-16,SF2,bogdan,bogdanovic,injured,Atlanta,2,SF,0,2
+18,2022-10-16-justin-holiday-SF3-Atlanta,2022-10-16,SF3,justin,holiday,active,Atlanta,3,SF,1,2
+19,2022-10-16-aj-griffin-SF4-Atlanta,2022-10-16,SF4,aj,griffin,active,Atlanta,4,SF,1,3
+20,2022-10-16-jalen-johnson-SF5-Atlanta,2022-10-16,SF5,jalen,johnson,active,Atlanta,5,SF,1,4
+21,2022-10-16-tyrese-martin-SF6-Atlanta,2022-10-16,SF6,tyrese,martin,active,Atlanta,6,SF,1,5
+22,2022-10-16-jarrett-culver-SF7-Atlanta,2022-10-16,SF7,jarrett,culver,active,Atlanta,7,SF,1,6
+23,2022-10-16-trent-forrest-SF8-Atlanta,2022-10-16,SF8,trent,forrest,active,Atlanta,8,SF,1,7
+24,2022-10-16-jared-rhoden-SF9-Atlanta,2022-10-16,SF9,jared,rhoden,active,Atlanta,9,SF,1,8
+25,2022-10-16-john-collins-PF1-Atlanta,2022-10-16,PF1,john,collins,active,Atlanta,1,PF,0,1
+26,2022-10-16-justin-holiday-PF2-Atlanta,2022-10-16,PF2,justin,holiday,active,Atlanta,2,PF,0,2
+27,2022-10-16-jalen-johnson-PF3-Atlanta,2022-10-16,PF3,jalen,johnson,active,Atlanta,3,PF,0,3
+28,2022-10-16-frank-kaminsky-PF4-Atlanta,2022-10-16,PF4,frank,kaminsky,active,Atlanta,4,PF,0,4
+29,2022-10-16-de'andre-hunter-PF5-Atlanta,2022-10-16,PF5,de'andre,hunter,active,Atlanta,5,PF,0,5
+30,2022-10-16-onyeka-okongwu-PF6-Atlanta,2022-10-16,PF6,onyeka,okongwu,active,Atlanta,6,PF,0,6
+31,2022-10-16-jarrett-culver-PF7-Atlanta,2022-10-16,PF7,jarrett,culver,active,Atlanta,7,PF,0,7
+32,2022-10-16-jared-rhoden-PF8-Atlanta,2022-10-16,PF8,jared,rhoden,active,Atlanta,8,PF,0,8
+33,2022-10-16-clint-capela-C1-Atlanta,2022-10-16,C1,clint,capela,active,Atlanta,1,C,0,1
+34,2022-10-16-onyeka-okongwu-C2-Atlanta,2022-10-16,C2,onyeka,okongwu,active,Atlanta,2,C,0,2
+35,2022-10-16-frank-kaminsky-C3-Atlanta,2022-10-16,C3,frank,kaminsky,active,Atlanta,3,C,0,3
+36,2022-10-16-john-collins-C4-Atlanta,2022-10-16,C4,john,collins,active,Atlanta,4,C,0,4
+37,2022-10-16-marcus-smart-PG1-Boston,2022-10-16,PG1,marcus,smart,active,Boston,1,PG,0,1
+38,2022-10-16-malcolm-brogdon-PG2-Boston,2022-10-16,PG2,malcolm,brogdon,active,Boston,2,PG,0,2
+39,2022-10-16-payton-pritchard-PG3-Boston,2022-10-16,PG3,payton,pritchard,active,Boston,3,PG,0,3
+40,2022-10-16-derrick-white-PG4-Boston,2022-10-16,PG4,derrick,white,active,Boston,4,PG,0,4
+41,2022-10-16-jd-davison-PG5-Boston,2022-10-16,PG5,jd,davison,active,Boston,5,PG,0,5
+42,2022-10-16-derrick-white-SG1-Boston,2022-10-16,SG1,derrick,white,active,Boston,1,SG,0,1
+43,2022-10-16-malcolm-brogdon-SG2-Boston,2022-10-16,SG2,malcolm,brogdon,active,Boston,2,SG,0,2
+44,2022-10-16-jaylen-brown-SG3-Boston,2022-10-16,SG3,jaylen,brown,active,Boston,3,SG,0,3
+45,2022-10-16-marcus-smart-SG4-Boston,2022-10-16,SG4,marcus,smart,active,Boston,4,SG,0,4
+46,2022-10-16-jd-davison-SG5-Boston,2022-10-16,SG5,jd,davison,active,Boston,5,SG,0,5
+47,2022-10-16-justin-jackson-SG6-Boston,2022-10-16,SG6,justin,jackson,active,Boston,6,SG,0,6
+48,2022-10-16-jaylen-brown-SF1-Boston,2022-10-16,SF1,jaylen,brown,active,Boston,1,SF,0,1
+49,2022-10-16-grant-williams-SF2-Boston,2022-10-16,SF2,grant,williams,active,Boston,2,SF,0,2
+50,2022-10-16-sam-hauser-SF3-Boston,2022-10-16,SF3,sam,hauser,active,Boston,3,SF,0,3
+51,2022-10-16-jayson-tatum-SF4-Boston,2022-10-16,SF4,jayson,tatum,active,Boston,4,SF,0,4
+52,2022-10-16-marcus-smart-SF5-Boston,2022-10-16,SF5,marcus,smart,active,Boston,5,SF,0,5
+53,2022-10-16-justin-jackson-SF6-Boston,2022-10-16,SF6,justin,jackson,active,Boston,6,SF,0,6
+54,2022-10-16-danilo-gallinari-SF7-Boston,2022-10-16,SF7,danilo,gallinari,active,Boston,7,SF,0,7
+55,2022-10-16-jayson-tatum-PF1-Boston,2022-10-16,PF1,jayson,tatum,active,Boston,1,PF,0,1
+56,2022-10-16-grant-williams-PF2-Boston,2022-10-16,PF2,grant,williams,active,Boston,2,PF,0,2
+57,2022-10-16-blake-griffin-PF3-Boston,2022-10-16,PF3,blake,griffin,active,Boston,3,PF,0,3
+58,2022-10-16-al-horford-PF4-Boston,2022-10-16,PF4,al,horford,active,Boston,4,PF,0,4
+59,2022-10-16-sam-hauser-PF5-Boston,2022-10-16,PF5,sam,hauser,active,Boston,5,PF,0,5
+60,2022-10-16-luke-kornet-PF6-Boston,2022-10-16,PF6,luke,kornet,active,Boston,6,PF,0,6
+61,2022-10-16-mfiondu-kabengele-PF7-Boston,2022-10-16,PF7,mfiondu,kabengele,active,Boston,7,PF,0,7
+62,2022-10-16-justin-jackson-PF8-Boston,2022-10-16,PF8,justin,jackson,active,Boston,8,PF,0,8
+63,2022-10-16-noah-vonleh-PF9-Boston,2022-10-16,PF9,noah,vonleh,active,Boston,9,PF,0,9
+64,2022-10-16-danilo-gallinari-PF10-Boston,2022-10-16,PF10,danilo,gallinari,active,Boston,10,PF,0,10
+65,2022-10-16-al-horford-C1-Boston,2022-10-16,C1,al,horford,active,Boston,1,C,0,1
+66,2022-10-16-blake-griffin-C2-Boston,2022-10-16,C2,blake,griffin,active,Boston,2,C,0,2
+67,2022-10-16-luke-kornet-C3-Boston,2022-10-16,C3,luke,kornet,active,Boston,3,C,0,3
+68,2022-10-16-grant-williams-C4-Boston,2022-10-16,C4,grant,williams,active,Boston,4,C,0,4
+69,2022-10-16-mfiondu-kabengele-C5-Boston,2022-10-16,C5,mfiondu,kabengele,active,Boston,5,C,0,5
+70,2022-10-16-noah-vonleh-C6-Boston,2022-10-16,C6,noah,vonleh,active,Boston,6,C,0,6
+71,2022-10-16-robert-williams-iii-C7-Boston,2022-10-16,C7,robert,williams-iii,active,Boston,7,C,0,7
+72,2022-10-16-kyrie-irving-PG1-Brooklyn,2022-10-16,PG1,kyrie,irving,active,Brooklyn,1,PG,0,1
+73,2022-10-16-patty-mills-PG2-Brooklyn,2022-10-16,PG2,patty,mills,active,Brooklyn,2,PG,0,2
+74,2022-10-16-cam-thomas-PG3-Brooklyn,2022-10-16,PG3,cam,thomas,active,Brooklyn,3,PG,0,3
+75,2022-10-16-ben-simmons-PG4-Brooklyn,2022-10-16,PG4,ben,simmons,active,Brooklyn,4,PG,0,4
+76,2022-10-16-seth-curry-PG5-Brooklyn,2022-10-16,PG5,seth,curry,injured,Brooklyn,5,PG,0,5
+77,2022-10-16-edmond-sumner-PG6-Brooklyn,2022-10-16,PG6,edmond,sumner,active,Brooklyn,6,PG,1,5
+78,2022-10-16-alondes-williams-PG7-Brooklyn,2022-10-16,PG7,alondes,williams,active,Brooklyn,7,PG,1,6
+79,2022-10-16-david-duke-jr.-PG8-Brooklyn,2022-10-16,PG8,david,duke-jr.,active,Brooklyn,8,PG,1,7
+80,2022-10-16-joe-harris-SG1-Brooklyn,2022-10-16,SG1,joe,harris,injured,Brooklyn,1,SG,0,1
+81,2022-10-16-seth-curry-SG2-Brooklyn,2022-10-16,SG2,seth,curry,injured,Brooklyn,2,SG,1,1
+82,2022-10-16-cam-thomas-SG3-Brooklyn,2022-10-16,SG3,cam,thomas,active,Brooklyn,3,SG,2,1
+83,2022-10-16-patty-mills-SG4-Brooklyn,2022-10-16,SG4,patty,mills,active,Brooklyn,4,SG,2,2
+84,2022-10-16-t.j.-warren-SG5-Brooklyn,2022-10-16,SG5,t.j.,warren,active,Brooklyn,5,SG,2,3
+85,2022-10-16-kyrie-irving-SG6-Brooklyn,2022-10-16,SG6,kyrie,irving,active,Brooklyn,6,SG,2,4
+86,2022-10-16-edmond-sumner-SG7-Brooklyn,2022-10-16,SG7,edmond,sumner,active,Brooklyn,7,SG,2,5
+87,2022-10-16-alondes-williams-SG8-Brooklyn,2022-10-16,SG8,alondes,williams,active,Brooklyn,8,SG,2,6
+88,2022-10-16-david-duke-jr.-SG9-Brooklyn,2022-10-16,SG9,david,duke-jr.,active,Brooklyn,9,SG,2,7
+89,2022-10-16-kevin-durant-SF1-Brooklyn,2022-10-16,SF1,kevin,durant,active,Brooklyn,1,SF,0,1
+90,2022-10-16-royce-o'neale-SF2-Brooklyn,2022-10-16,SF2,royce,o'neale,active,Brooklyn,2,SF,0,2
+91,2022-10-16-t.j.-warren-SF3-Brooklyn,2022-10-16,SF3,t.j.,warren,active,Brooklyn,3,SF,0,3
+92,2022-10-16-kessler-edwards-SF4-Brooklyn,2022-10-16,SF4,kessler,edwards,active,Brooklyn,4,SF,0,4
+93,2022-10-16-joe-harris-SF5-Brooklyn,2022-10-16,SF5,joe,harris,injured,Brooklyn,5,SF,0,5
+94,2022-10-16-seth-curry-SF6-Brooklyn,2022-10-16,SF6,seth,curry,injured,Brooklyn,6,SF,1,5
+95,2022-10-16-edmond-sumner-SF7-Brooklyn,2022-10-16,SF7,edmond,sumner,active,Brooklyn,7,SF,2,5
+96,2022-10-16-cam-thomas-SF8-Brooklyn,2022-10-16,SF8,cam,thomas,active,Brooklyn,8,SF,2,6
+97,2022-10-16-patty-mills-SF9-Brooklyn,2022-10-16,SF9,patty,mills,active,Brooklyn,9,SF,2,7
+98,2022-10-16-david-duke-jr.-SF10-Brooklyn,2022-10-16,SF10,david,duke-jr.,active,Brooklyn,10,SF,2,8
+99,2022-10-16-yuta-watanabe-SF11-Brooklyn,2022-10-16,SF11,yuta,watanabe,active,Brooklyn,11,SF,2,9
+100,2022-10-16-ben-simmons-PF1-Brooklyn,2022-10-16,PF1,ben,simmons,active,Brooklyn,1,PF,0,1
+101,2022-10-16-t.j.-warren-PF2-Brooklyn,2022-10-16,PF2,t.j.,warren,active,Brooklyn,2,PF,0,2
+102,2022-10-16-markieff-morris-PF3-Brooklyn,2022-10-16,PF3,markieff,morris,active,Brooklyn,3,PF,0,3
+103,2022-10-16-kevin-durant-PF4-Brooklyn,2022-10-16,PF4,kevin,durant,active,Brooklyn,4,PF,0,4
+104,2022-10-16-royce-o'neale-PF5-Brooklyn,2022-10-16,PF5,royce,o'neale,active,Brooklyn,5,PF,0,5
+105,2022-10-16-kessler-edwards-PF6-Brooklyn,2022-10-16,PF6,kessler,edwards,active,Brooklyn,6,PF,0,6
+106,2022-10-16-yuta-watanabe-PF7-Brooklyn,2022-10-16,PF7,yuta,watanabe,active,Brooklyn,7,PF,0,7
+107,2022-10-16-nic-claxton-C1-Brooklyn,2022-10-16,C1,nic,claxton,active,Brooklyn,1,C,0,1
+108,2022-10-16-day'ron-sharpe-C2-Brooklyn,2022-10-16,C2,day'ron,sharpe,active,Brooklyn,2,C,0,2
+109,2022-10-16-markieff-morris-C3-Brooklyn,2022-10-16,C3,markieff,morris,active,Brooklyn,3,C,0,3
+110,2022-10-16-kevin-durant-C4-Brooklyn,2022-10-16,C4,kevin,durant,active,Brooklyn,4,C,0,4
+111,2022-10-16-ben-simmons-C5-Brooklyn,2022-10-16,C5,ben,simmons,active,Brooklyn,5,C,0,5
+112,2022-10-16-lamelo-ball-PG1-Charlotte,2022-10-16,PG1,lamelo,ball,active,Charlotte,1,PG,0,1
+113,2022-10-16-dennis-smith-jr.-PG2-Charlotte,2022-10-16,PG2,dennis,smith-jr.,active,Charlotte,2,PG,0,2
+114,2022-10-16-theo-maledon-PG3-Charlotte,2022-10-16,PG3,theo,maledon,active,Charlotte,3,PG,0,3
+115,2022-10-16-james-bouknight-PG4-Charlotte,2022-10-16,PG4,james,bouknight,active,Charlotte,4,PG,0,4
+116,2022-10-16-cody-martin-PG5-Charlotte,2022-10-16,PG5,cody,martin,active,Charlotte,5,PG,0,5
+117,2022-10-16-terry-rozier-PG6-Charlotte,2022-10-16,PG6,terry,rozier,active,Charlotte,6,PG,0,6
+118,2022-10-16-terry-rozier-SG1-Charlotte,2022-10-16,SG1,terry,rozier,active,Charlotte,1,SG,0,1
+119,2022-10-16-cody-martin-SG2-Charlotte,2022-10-16,SG2,cody,martin,active,Charlotte,2,SG,0,2
+120,2022-10-16-james-bouknight-SG3-Charlotte,2022-10-16,SG3,james,bouknight,active,Charlotte,3,SG,0,3
+121,2022-10-16-kelly-oubre-jr.-SG4-Charlotte,2022-10-16,SG4,kelly,oubre-jr.,active,Charlotte,4,SG,0,4
+122,2022-10-16-lamelo-ball-SG5-Charlotte,2022-10-16,SG5,lamelo,ball,active,Charlotte,5,SG,0,5
+123,2022-10-16-bryce-mcgowens-SG6-Charlotte,2022-10-16,SG6,bryce,mcgowens,active,Charlotte,6,SG,0,6
+124,2022-10-16-gordon-hayward-SF1-Charlotte,2022-10-16,SF1,gordon,hayward,active,Charlotte,1,SF,0,1
+125,2022-10-16-kelly-oubre-jr.-SF2-Charlotte,2022-10-16,SF2,kelly,oubre-jr.,active,Charlotte,2,SF,0,2
+126,2022-10-16-cody-martin-SF3-Charlotte,2022-10-16,SF3,cody,martin,active,Charlotte,3,SF,0,3
+127,2022-10-16-jalen-mcdaniels-SF4-Charlotte,2022-10-16,SF4,jalen,mcdaniels,active,Charlotte,4,SF,0,4
+128,2022-10-16-terry-rozier-SF5-Charlotte,2022-10-16,SF5,terry,rozier,active,Charlotte,5,SF,0,5
+129,2022-10-16-bryce-mcgowens-SF6-Charlotte,2022-10-16,SF6,bryce,mcgowens,active,Charlotte,6,SF,0,6
+130,2022-10-16-p.j.-washington-PF1-Charlotte,2022-10-16,PF1,p.j.,washington,active,Charlotte,1,PF,0,1
+131,2022-10-16-jalen-mcdaniels-PF2-Charlotte,2022-10-16,PF2,jalen,mcdaniels,active,Charlotte,2,PF,0,2
+132,2022-10-16-kelly-oubre-jr.-PF3-Charlotte,2022-10-16,PF3,kelly,oubre-jr.,active,Charlotte,3,PF,0,3
+133,2022-10-16-jt-thor-PF4-Charlotte,2022-10-16,PF4,jt,thor,active,Charlotte,4,PF,0,4
+134,2022-10-16-gordon-hayward-PF5-Charlotte,2022-10-16,PF5,gordon,hayward,active,Charlotte,5,PF,0,5
+135,2022-10-16-mason-plumlee-C1-Charlotte,2022-10-16,C1,mason,plumlee,active,Charlotte,1,C,0,1
+136,2022-10-16-mark-williams-C2-Charlotte,2022-10-16,C2,mark,williams,active,Charlotte,2,C,0,2
+137,2022-10-16-nick-richards-C3-Charlotte,2022-10-16,C3,nick,richards,active,Charlotte,3,C,0,3
+138,2022-10-16-kai-jones-C4-Charlotte,2022-10-16,C4,kai,jones,active,Charlotte,4,C,0,4
+139,2022-10-16-p.j.-washington-C5-Charlotte,2022-10-16,C5,p.j.,washington,active,Charlotte,5,C,0,5
+140,2022-10-16-ayo-dosunmu-PG1-Chicago,2022-10-16,PG1,ayo,dosunmu,active,Chicago,1,PG,0,1
+141,2022-10-16-alex-caruso-PG2-Chicago,2022-10-16,PG2,alex,caruso,active,Chicago,2,PG,0,2
+142,2022-10-16-goran-dragic-PG3-Chicago,2022-10-16,PG3,goran,dragic,active,Chicago,3,PG,0,3
+143,2022-10-16-coby-white-PG4-Chicago,2022-10-16,PG4,coby,white,active,Chicago,4,PG,0,4
+144,2022-10-16-lonzo-ball-PG5-Chicago,2022-10-16,PG5,lonzo,ball,active,Chicago,5,PG,0,5
+145,2022-10-16-zach-lavine-SG1-Chicago,2022-10-16,SG1,zach,lavine,active,Chicago,1,SG,0,1
+146,2022-10-16-alex-caruso-SG2-Chicago,2022-10-16,SG2,alex,caruso,active,Chicago,2,SG,0,2
+147,2022-10-16-coby-white-SG3-Chicago,2022-10-16,SG3,coby,white,active,Chicago,3,SG,0,3
+148,2022-10-16-ayo-dosunmu-SG4-Chicago,2022-10-16,SG4,ayo,dosunmu,active,Chicago,4,SG,0,4
+149,2022-10-16-goran-dragic-SG5-Chicago,2022-10-16,SG5,goran,dragic,active,Chicago,5,SG,0,5
+150,2022-10-16-dalen-terry-SG6-Chicago,2022-10-16,SG6,dalen,terry,active,Chicago,6,SG,0,6
+151,2022-10-16-javonte-green-SG7-Chicago,2022-10-16,SG7,javonte,green,active,Chicago,7,SG,0,7
+152,2022-10-16-demar-derozan-SG8-Chicago,2022-10-16,SG8,demar,derozan,active,Chicago,8,SG,0,8
+153,2022-10-16-demar-derozan-SF1-Chicago,2022-10-16,SF1,demar,derozan,active,Chicago,1,SF,0,1
+154,2022-10-16-javonte-green-SF2-Chicago,2022-10-16,SF2,javonte,green,active,Chicago,2,SF,0,2
+155,2022-10-16-derrick-jones-jr.-SF3-Chicago,2022-10-16,SF3,derrick,jones-jr.,active,Chicago,3,SF,0,3
+156,2022-10-16-patrick-williams-SF4-Chicago,2022-10-16,SF4,patrick,williams,active,Chicago,4,SF,0,4
+157,2022-10-16-dalen-terry-SF5-Chicago,2022-10-16,SF5,dalen,terry,active,Chicago,5,SF,0,5
+158,2022-10-16-zach-lavine-SF6-Chicago,2022-10-16,SF6,zach,lavine,active,Chicago,6,SF,0,6
+159,2022-10-16-kostas-antetokounmpo-SF8-Chicago,2022-10-16,SF8,kostas,antetokounmpo,active,Chicago,8,SF,0,8
+160,2022-10-16-justin-lewis-SF9-Chicago,2022-10-16,SF9,justin,lewis,active,Chicago,9,SF,0,9
+161,2022-10-16-patrick-williams-PF1-Chicago,2022-10-16,PF1,patrick,williams,active,Chicago,1,PF,0,1
+162,2022-10-16-javonte-green-PF2-Chicago,2022-10-16,PF2,javonte,green,active,Chicago,2,PF,0,2
+163,2022-10-16-derrick-jones-jr.-PF3-Chicago,2022-10-16,PF3,derrick,jones-jr.,active,Chicago,3,PF,0,3
+164,2022-10-16-demar-derozan-PF4-Chicago,2022-10-16,PF4,demar,derozan,active,Chicago,4,PF,0,4
+165,2022-10-16-marko-simonovic-PF5-Chicago,2022-10-16,PF5,marko,simonovic,active,Chicago,5,PF,0,5
+166,2022-10-16-kostas-antetokounmpo-PF6-Chicago,2022-10-16,PF6,kostas,antetokounmpo,active,Chicago,6,PF,0,6
+167,2022-10-16-justin-lewis-PF7-Chicago,2022-10-16,PF7,justin,lewis,active,Chicago,7,PF,0,7
+168,2022-10-16-nikola-vucevic-C1-Chicago,2022-10-16,C1,nikola,vucevic,active,Chicago,1,C,0,1
+169,2022-10-16-andre-drummond-C2-Chicago,2022-10-16,C2,andre,drummond,active,Chicago,2,C,0,2
+170,2022-10-16-tony-bradley-C3-Chicago,2022-10-16,C3,tony,bradley,active,Chicago,3,C,0,3
+171,2022-10-16-marko-simonovic-C4-Chicago,2022-10-16,C4,marko,simonovic,active,Chicago,4,C,0,4
+172,2022-10-16-derrick-jones-jr.-C5-Chicago,2022-10-16,C5,derrick,jones-jr.,active,Chicago,5,C,0,5
+173,2022-10-16-darius-garland-PG1-Cleveland,2022-10-16,PG1,darius,garland,active,Cleveland,1,PG,0,1
+174,2022-10-16-raul-neto-PG2-Cleveland,2022-10-16,PG2,raul,neto,active,Cleveland,2,PG,0,2
+175,2022-10-16-donovan-mitchell-PG3-Cleveland,2022-10-16,PG3,donovan,mitchell,active,Cleveland,3,PG,0,3
+176,2022-10-16-caris-levert-PG4-Cleveland,2022-10-16,PG4,caris,levert,active,Cleveland,4,PG,0,4
+177,2022-10-16-cedi-osman-PG5-Cleveland,2022-10-16,PG5,cedi,osman,active,Cleveland,5,PG,0,5
+178,2022-10-16-ricky-rubio-PG6-Cleveland,2022-10-16,PG6,ricky,rubio,active,Cleveland,6,PG,0,6
+179,2022-10-16-donovan-mitchell-SG1-Cleveland,2022-10-16,SG1,donovan,mitchell,active,Cleveland,1,SG,0,1
+180,2022-10-16-caris-levert-SG2-Cleveland,2022-10-16,SG2,caris,levert,active,Cleveland,2,SG,0,2
+181,2022-10-16-isaac-okoro-SG3-Cleveland,2022-10-16,SG3,isaac,okoro,active,Cleveland,3,SG,0,3
+182,2022-10-16-dylan-windler-SG4-Cleveland,2022-10-16,SG4,dylan,windler,active,Cleveland,4,SG,0,4
+183,2022-10-16-cedi-osman-SG5-Cleveland,2022-10-16,SG5,cedi,osman,active,Cleveland,5,SG,0,5
+184,2022-10-16-raul-neto-SG6-Cleveland,2022-10-16,SG6,raul,neto,active,Cleveland,6,SG,0,6
+185,2022-10-16-darius-garland-SG7-Cleveland,2022-10-16,SG7,darius,garland,active,Cleveland,7,SG,0,7
+186,2022-10-16-caris-levert-SF1-Cleveland,2022-10-16,SF1,caris,levert,active,Cleveland,1,SF,0,1
+187,2022-10-16-isaac-okoro-SF2-Cleveland,2022-10-16,SF2,isaac,okoro,active,Cleveland,2,SF,0,2
+188,2022-10-16-cedi-osman-SF3-Cleveland,2022-10-16,SF3,cedi,osman,active,Cleveland,3,SF,0,3
+189,2022-10-16-dylan-windler-SF4-Cleveland,2022-10-16,SF4,dylan,windler,active,Cleveland,4,SF,0,4
+190,2022-10-16-dean-wade-SF5-Cleveland,2022-10-16,SF5,dean,wade,active,Cleveland,5,SF,0,5
+191,2022-10-16-lamar-stevens-SF6-Cleveland,2022-10-16,SF6,lamar,stevens,active,Cleveland,6,SF,0,6
+192,2022-10-16-evan-mobley-PF1-Cleveland,2022-10-16,PF1,evan,mobley,active,Cleveland,1,PF,0,1
+193,2022-10-16-kevin-love-PF2-Cleveland,2022-10-16,PF2,kevin,love,active,Cleveland,2,PF,0,2
+194,2022-10-16-cedi-osman-PF3-Cleveland,2022-10-16,PF3,cedi,osman,active,Cleveland,3,PF,0,3
+195,2022-10-16-dean-wade-PF4-Cleveland,2022-10-16,PF4,dean,wade,active,Cleveland,4,PF,0,4
+196,2022-10-16-lamar-stevens-PF5-Cleveland,2022-10-16,PF5,lamar,stevens,active,Cleveland,5,PF,0,5
+197,2022-10-16-isaiah-mobley-PF6-Cleveland,2022-10-16,PF6,isaiah,mobley,active,Cleveland,6,PF,0,6
+198,2022-10-16-isaac-okoro-PF7-Cleveland,2022-10-16,PF7,isaac,okoro,active,Cleveland,7,PF,0,7
+199,2022-10-16-jarrett-allen-C1-Cleveland,2022-10-16,C1,jarrett,allen,active,Cleveland,1,C,0,1
+200,2022-10-16-kevin-love-C2-Cleveland,2022-10-16,C2,kevin,love,active,Cleveland,2,C,0,2
+201,2022-10-16-robin-lopez-C3-Cleveland,2022-10-16,C3,robin,lopez,active,Cleveland,3,C,0,3
+202,2022-10-16-evan-mobley-C4-Cleveland,2022-10-16,C4,evan,mobley,active,Cleveland,4,C,0,4
+203,2022-10-16-dean-wade-C5-Cleveland,2022-10-16,C5,dean,wade,active,Cleveland,5,C,0,5
+204,2022-10-16-isaiah-mobley-C6-Cleveland,2022-10-16,C6,isaiah,mobley,active,Cleveland,6,C,0,6
+205,2022-10-16-luka-doncic-PG1-Dallas,2022-10-16,PG1,luka,doncic,active,Dallas,1,PG,0,1
+206,2022-10-16-spencer-dinwiddie-PG2-Dallas,2022-10-16,PG2,spencer,dinwiddie,active,Dallas,2,PG,0,2
+207,2022-10-16-frank-ntilikina-PG3-Dallas,2022-10-16,PG3,frank,ntilikina,active,Dallas,3,PG,0,3
+208,2022-10-16-jaden-hardy-PG4-Dallas,2022-10-16,PG4,jaden,hardy,active,Dallas,4,PG,0,4
+209,2022-10-16-tyler-dorsey-PG5-Dallas,2022-10-16,PG5,tyler,dorsey,active,Dallas,5,PG,0,5
+210,2022-10-16-mckinley-wright-iv-PG6-Dallas,2022-10-16,PG6,mckinley,wright-iv,active,Dallas,6,PG,0,6
+211,2022-10-16-tim-hardaway-jr.-SG1-Dallas,2022-10-16,SG1,tim,hardaway-jr.,active,Dallas,1,SG,0,1
+212,2022-10-16-spencer-dinwiddie-SG2-Dallas,2022-10-16,SG2,spencer,dinwiddie,active,Dallas,2,SG,0,2
+213,2022-10-16-theo-pinson-SG3-Dallas,2022-10-16,SG3,theo,pinson,active,Dallas,3,SG,0,3
+214,2022-10-16-jaden-hardy-SG4-Dallas,2022-10-16,SG4,jaden,hardy,active,Dallas,4,SG,0,4
+215,2022-10-16-tyler-dorsey-SG5-Dallas,2022-10-16,SG5,tyler,dorsey,active,Dallas,5,SG,0,5
+216,2022-10-16-reggie-bullock-SG6-Dallas,2022-10-16,SG6,reggie,bullock,active,Dallas,6,SG,0,6
+217,2022-10-16-frank-ntilikina-SG7-Dallas,2022-10-16,SG7,frank,ntilikina,active,Dallas,7,SG,0,7
+218,2022-10-16-josh-green-SG8-Dallas,2022-10-16,SG8,josh,green,active,Dallas,8,SG,0,8
+219,2022-10-16-luka-doncic-SG9-Dallas,2022-10-16,SG9,luka,doncic,active,Dallas,9,SG,0,9
+220,2022-10-16-reggie-bullock-SF1-Dallas,2022-10-16,SF1,reggie,bullock,active,Dallas,1,SF,0,1
+221,2022-10-16-josh-green-SF2-Dallas,2022-10-16,SF2,josh,green,active,Dallas,2,SF,0,2
+222,2022-10-16-tim-hardaway-jr.-SF3-Dallas,2022-10-16,SF3,tim,hardaway-jr.,active,Dallas,3,SF,0,3
+223,2022-10-16-davis-bertans-SF4-Dallas,2022-10-16,SF4,davis,bertans,active,Dallas,4,SF,0,4
+224,2022-10-16-dorian-finney-smith-SF5-Dallas,2022-10-16,SF5,dorian,finney-smith,active,Dallas,5,SF,0,5
+225,2022-10-16-spencer-dinwiddie-SF6-Dallas,2022-10-16,SF6,spencer,dinwiddie,active,Dallas,6,SF,0,6
+226,2022-10-16-theo-pinson-SF7-Dallas,2022-10-16,SF7,theo,pinson,active,Dallas,7,SF,0,7
+227,2022-10-16-dorian-finney-smith-PF1-Dallas,2022-10-16,PF1,dorian,finney-smith,active,Dallas,1,PF,0,1
+228,2022-10-16-maxi-kleber-PF2-Dallas,2022-10-16,PF2,maxi,kleber,active,Dallas,2,PF,0,2
+229,2022-10-16-davis-bertans-PF3-Dallas,2022-10-16,PF3,davis,bertans,active,Dallas,3,PF,0,3
+230,2022-10-16-christian-wood-PF4-Dallas,2022-10-16,PF4,christian,wood,active,Dallas,4,PF,0,4
+231,2022-10-16-reggie-bullock-PF5-Dallas,2022-10-16,PF5,reggie,bullock,active,Dallas,5,PF,0,5
+232,2022-10-16-javale-mcgee-C1-Dallas,2022-10-16,C1,javale,mcgee,active,Dallas,1,C,0,1
+233,2022-10-16-christian-wood-C2-Dallas,2022-10-16,C2,christian,wood,active,Dallas,2,C,0,2
+234,2022-10-16-dwight-powell-C3-Dallas,2022-10-16,C3,dwight,powell,active,Dallas,3,C,0,3
+235,2022-10-16-maxi-kleber-C4-Dallas,2022-10-16,C4,maxi,kleber,active,Dallas,4,C,0,4
+236,2022-10-16-jamal-murray-PG1-Denver,2022-10-16,PG1,jamal,murray,active,Denver,1,PG,0,1
+237,2022-10-16-bones-hyland-PG3-Denver,2022-10-16,PG3,bones,hyland,active,Denver,3,PG,0,3
+238,2022-10-16-ish-smith-PG2-Denver,2022-10-16,PG2,ish,smith,active,Denver,2,PG,0,2
+239,2022-10-16-bruce-brown-PG4-Denver,2022-10-16,PG4,bruce,brown,active,Denver,4,PG,0,4
+240,2022-10-16-collin-gillespie-PG5-Denver,2022-10-16,PG5,collin,gillespie,active,Denver,5,PG,0,5
+241,2022-10-16-kentavious-caldwell-pope-SG1-Denver,2022-10-16,SG1,kentavious,caldwell-pope,active,Denver,1,SG,0,1
+242,2022-10-16-bruce-brown-SG2-Denver,2022-10-16,SG2,bruce,brown,active,Denver,2,SG,0,2
+243,2022-10-16-bones-hyland-SG3-Denver,2022-10-16,SG3,bones,hyland,active,Denver,3,SG,0,3
+244,2022-10-16-christian-braun-SG4-Denver,2022-10-16,SG4,christian,braun,active,Denver,4,SG,0,4
+245,2022-10-16-jamal-murray-SG5-Denver,2022-10-16,SG5,jamal,murray,active,Denver,5,SG,0,5
+246,2022-10-16-davon-reed-SG6-Denver,2022-10-16,SG6,davon,reed,active,Denver,6,SG,0,6
+247,2022-10-16-peyton-watson-SG7-Denver,2022-10-16,SG7,peyton,watson,active,Denver,7,SG,0,7
+248,2022-10-16-michael-porter-jr.-SF1-Denver,2022-10-16,SF1,michael,porter-jr.,active,Denver,1,SF,0,1
+249,2022-10-16-davon-reed-SF2-Denver,2022-10-16,SF2,davon,reed,active,Denver,2,SF,0,2
+250,2022-10-16-bruce-brown-SF3-Denver,2022-10-16,SF3,bruce,brown,active,Denver,3,SF,0,3
+251,2022-10-16-christian-braun-SF4-Denver,2022-10-16,SF4,christian,braun,active,Denver,4,SF,0,4
+252,2022-10-16-vlatko-cancar-SF5-Denver,2022-10-16,SF5,vlatko,cancar,active,Denver,5,SF,0,5
+253,2022-10-16-aaron-gordon-SF6-Denver,2022-10-16,SF6,aaron,gordon,active,Denver,6,SF,0,6
+254,2022-10-16-kentavious-caldwell-pope-SF7-Denver,2022-10-16,SF7,kentavious,caldwell-pope,active,Denver,7,SF,0,7
+255,2022-10-16-peyton-watson-SF8-Denver,2022-10-16,SF8,peyton,watson,active,Denver,8,SF,0,8
+256,2022-10-16-jeff-green-SF9-Denver,2022-10-16,SF9,jeff,green,active,Denver,9,SF,0,9
+257,2022-10-16-jack-white-SF10-Denver,2022-10-16,SF10,jack,white,active,Denver,10,SF,0,10
+258,2022-10-16-aaron-gordon-PF1-Denver,2022-10-16,PF1,aaron,gordon,active,Denver,1,PF,0,1
+259,2022-10-16-jeff-green-PF2-Denver,2022-10-16,PF2,jeff,green,active,Denver,2,PF,0,2
+260,2022-10-16-zeke-nnaji-PF3-Denver,2022-10-16,PF3,zeke,nnaji,active,Denver,3,PF,0,3
+261,2022-10-16-michael-porter-jr.-PF4-Denver,2022-10-16,PF4,michael,porter-jr.,active,Denver,4,PF,0,4
+262,2022-10-16-jack-white-PF5-Denver,2022-10-16,PF5,jack,white,active,Denver,5,PF,0,5
+263,2022-10-16-nikola-jokic-C1-Denver,2022-10-16,C1,nikola,jokic,active,Denver,1,C,0,1
+264,2022-10-16-deandre-jordan-C2-Denver,2022-10-16,C2,deandre,jordan,active,Denver,2,C,0,2
+265,2022-10-16-zeke-nnaji-C3-Denver,2022-10-16,C3,zeke,nnaji,active,Denver,3,C,0,3
+266,2022-10-16-jeff-green-C4-Denver,2022-10-16,C4,jeff,green,active,Denver,4,C,0,4
+267,2022-10-16-cade-cunningham-PG1-Detroit,2022-10-16,PG1,cade,cunningham,active,Detroit,1,PG,0,1
+268,2022-10-16-killian-hayes-PG2-Detroit,2022-10-16,PG2,killian,hayes,active,Detroit,2,PG,0,2
+269,2022-10-16-cory-joseph-PG3-Detroit,2022-10-16,PG3,cory,joseph,active,Detroit,3,PG,0,3
+270,2022-10-16-alec-burks-PG4-Detroit,2022-10-16,PG4,alec,burks,active,Detroit,4,PG,0,4
+271,2022-10-16-jaden-ivey-PG5-Detroit,2022-10-16,PG5,jaden,ivey,active,Detroit,5,PG,0,5
+272,2022-10-16-kemba-walker-PG6-Detroit,2022-10-16,PG6,kemba,walker,active,Detroit,6,PG,0,6
+273,2022-10-16-jaden-ivey-SG1-Detroit,2022-10-16,SG1,jaden,ivey,active,Detroit,1,SG,0,1
+274,2022-10-16-alec-burks-SG2-Detroit,2022-10-16,SG2,alec,burks,active,Detroit,2,SG,0,2
+275,2022-10-16-rodney-mcgruder-SG3-Detroit,2022-10-16,SG3,rodney,mcgruder,active,Detroit,3,SG,0,3
+276,2022-10-16-hamidou-diallo-SG4-Detroit,2022-10-16,SG4,hamidou,diallo,active,Detroit,4,SG,0,4
+277,2022-10-16-cory-joseph-SG5-Detroit,2022-10-16,SG5,cory,joseph,active,Detroit,5,SG,0,5
+278,2022-10-16-cade-cunningham-SG6-Detroit,2022-10-16,SG6,cade,cunningham,active,Detroit,6,SG,0,6
+279,2022-10-16-buddy-boeheim-SG7-Detroit,2022-10-16,SG7,buddy,boeheim,active,Detroit,7,SG,0,7
+280,2022-10-16-saddiq-bey-SF1-Detroit,2022-10-16,SF1,saddiq,bey,active,Detroit,1,SF,0,1
+281,2022-10-16-hamidou-diallo-SF2-Detroit,2022-10-16,SF2,hamidou,diallo,active,Detroit,2,SF,0,2
+282,2022-10-16-rodney-mcgruder-SF3-Detroit,2022-10-16,SF3,rodney,mcgruder,active,Detroit,3,SF,0,3
+283,2022-10-16-isaiah-livers-SF4-Detroit,2022-10-16,SF4,isaiah,livers,active,Detroit,4,SF,0,4
+284,2022-10-16-kevin-knox-ii-SF5-Detroit,2022-10-16,SF5,kevin,knox-ii,active,Detroit,5,SF,0,5
+285,2022-10-16-bojan-bogdanovic-SF6-Detroit,2022-10-16,SF6,bojan,bogdanovic,active,Detroit,6,SF,0,6
+286,2022-10-16-cade-cunningham-SF7-Detroit,2022-10-16,SF7,cade,cunningham,active,Detroit,7,SF,0,7
+287,2022-10-16-braxton-key-SF8-Detroit,2022-10-16,SF8,braxton,key,active,Detroit,8,SF,0,8
+288,2022-10-16-buddy-boeheim-SF9-Detroit,2022-10-16,SF9,buddy,boeheim,active,Detroit,9,SF,0,9
+289,2022-10-16-bojan-bogdanovic-PF1-Detroit,2022-10-16,PF1,bojan,bogdanovic,active,Detroit,1,PF,0,1
+290,2022-10-16-isaiah-livers-PF2-Detroit,2022-10-16,PF2,isaiah,livers,active,Detroit,2,PF,0,2
+291,2022-10-16-isaiah-stewart-PF3-Detroit,2022-10-16,PF3,isaiah,stewart,active,Detroit,3,PF,0,3
+292,2022-10-16-kevin-knox-ii-PF4-Detroit,2022-10-16,PF4,kevin,knox-ii,active,Detroit,4,PF,0,4
+293,2022-10-16-marvin-bagley-iii-PF5-Detroit,2022-10-16,PF5,marvin,bagley-iii,active,Detroit,5,PF,0,5
+294,2022-10-16-braxton-key-PF6-Detroit,2022-10-16,PF6,braxton,key,active,Detroit,6,PF,0,6
+295,2022-10-16-saddiq-bey-PF7-Detroit,2022-10-16,PF7,saddiq,bey,active,Detroit,7,PF,0,7
+296,2022-10-16-isaiah-stewart-C1-Detroit,2022-10-16,C1,isaiah,stewart,active,Detroit,1,C,0,1
+297,2022-10-16-marvin-bagley-iii-C2-Detroit,2022-10-16,C2,marvin,bagley-iii,active,Detroit,2,C,0,2
+298,2022-10-16-jalen-duren-C3-Detroit,2022-10-16,C3,jalen,duren,active,Detroit,3,C,0,3
+299,2022-10-16-nerlens-noel-C4-Detroit,2022-10-16,C4,nerlens,noel,injured,Detroit,4,C,0,4
+300,2022-10-16-stephen-curry-PG1-Golden State,2022-10-16,PG1,stephen,curry,active,Golden State,1,PG,0,1
+301,2022-10-16-jordan-poole-PG2-Golden State,2022-10-16,PG2,jordan,poole,active,Golden State,2,PG,0,2
+302,2022-10-16-donte-divincenzo-PG3-Golden State,2022-10-16,PG3,donte,divincenzo,active,Golden State,3,PG,0,3
+303,2022-10-16-ty-jerome-PG4-Golden State,2022-10-16,PG4,ty,jerome,active,Golden State,4,PG,0,4
+304,2022-10-16-ryan-rollins-PG5-Golden State,2022-10-16,PG5,ryan,rollins,active,Golden State,5,PG,0,5
+305,2022-10-16-klay-thompson-SG1-Golden State,2022-10-16,SG1,klay,thompson,active,Golden State,1,SG,0,1
+306,2022-10-16-jordan-poole-SG2-Golden State,2022-10-16,SG2,jordan,poole,active,Golden State,2,SG,0,2
+307,2022-10-16-donte-divincenzo-SG3-Golden State,2022-10-16,SG3,donte,divincenzo,active,Golden State,3,SG,0,3
+308,2022-10-16-moses-moody-SG4-Golden State,2022-10-16,SG4,moses,moody,active,Golden State,4,SG,0,4
+309,2022-10-16-andrew-wiggins-SG5-Golden State,2022-10-16,SG5,andrew,wiggins,active,Golden State,5,SG,0,5
+310,2022-10-16-andre-iguodala-SG6-Golden State,2022-10-16,SG6,andre,iguodala,active,Golden State,6,SG,0,6
+311,2022-10-16-ryan-rollins-SG7-Golden State,2022-10-16,SG7,ryan,rollins,active,Golden State,7,SG,0,7
+312,2022-10-16-ty-jerome-SG8-Golden State,2022-10-16,SG8,ty,jerome,active,Golden State,8,SG,0,8
+313,2022-10-16-andrew-wiggins-SF1-Golden State,2022-10-16,SF1,andrew,wiggins,active,Golden State,1,SF,0,1
+314,2022-10-16-donte-divincenzo-SF2-Golden State,2022-10-16,SF2,donte,divincenzo,active,Golden State,2,SF,0,2
+315,2022-10-16-jonathan-kuminga-SF3-Golden State,2022-10-16,SF3,jonathan,kuminga,active,Golden State,3,SF,0,3
+316,2022-10-16-andre-iguodala-SF4-Golden State,2022-10-16,SF4,andre,iguodala,active,Golden State,4,SF,0,4
+317,2022-10-16-moses-moody-SF5-Golden State,2022-10-16,SF5,moses,moody,active,Golden State,5,SF,0,5
+318,2022-10-16-jordan-poole-SF6-Golden State,2022-10-16,SF6,jordan,poole,active,Golden State,6,SF,0,6
+319,2022-10-16-klay-thompson-SF7-Golden State,2022-10-16,SF7,klay,thompson,active,Golden State,7,SF,0,7
+320,2022-10-16-patrick-baldwin-jr.-SF8-Golden State,2022-10-16,SF8,patrick,baldwin-jr.,active,Golden State,8,SF,0,8
+321,2022-10-16-anthony-lamb-SF9-Golden State,2022-10-16,SF9,anthony,lamb,active,Golden State,9,SF,0,9
+322,2022-10-16-draymond-green-PF1-Golden State,2022-10-16,PF1,draymond,green,active,Golden State,1,PF,0,1
+323,2022-10-16-jonathan-kuminga-PF2-Golden State,2022-10-16,PF2,jonathan,kuminga,active,Golden State,2,PF,0,2
+324,2022-10-16-jamychal-green-PF3-Golden State,2022-10-16,PF3,jamychal,green,active,Golden State,3,PF,0,3
+325,2022-10-16-andre-iguodala-PF4-Golden State,2022-10-16,PF4,andre,iguodala,active,Golden State,4,PF,0,4
+326,2022-10-16-andrew-wiggins-PF5-Golden State,2022-10-16,PF5,andrew,wiggins,active,Golden State,5,PF,0,5
+327,2022-10-16-patrick-baldwin-jr.-PF6-Golden State,2022-10-16,PF6,patrick,baldwin-jr.,active,Golden State,6,PF,0,6
+328,2022-10-16-anthony-lamb-PF7-Golden State,2022-10-16,PF7,anthony,lamb,active,Golden State,7,PF,0,7
+329,2022-10-16-kevon-looney-C1-Golden State,2022-10-16,C1,kevon,looney,active,Golden State,1,C,0,1
+330,2022-10-16-james-wiseman-C2-Golden State,2022-10-16,C2,james,wiseman,active,Golden State,2,C,0,2
+331,2022-10-16-jamychal-green-C3-Golden State,2022-10-16,C3,jamychal,green,active,Golden State,3,C,0,3
+332,2022-10-16-draymond-green-C4-Golden State,2022-10-16,C4,draymond,green,active,Golden State,4,C,0,4
+333,2022-10-16-kevin-porter-jr.-PG1-Houston,2022-10-16,PG1,kevin,porter-jr.,active,Houston,1,PG,0,1
+334,2022-10-16-tyty-washington-jr.-PG2-Houston,2022-10-16,PG2,tyty,washington-jr.,active,Houston,2,PG,0,2
+335,2022-10-16-jock-landale-PG3-Houston,2022-10-16,PG3,jock,landale,active,Houston,3,PG,0,3
+336,2022-10-16-jalen-green-PG4-Houston,2022-10-16,PG4,jalen,green,active,Houston,4,PG,0,4
+337,2022-10-16-josh-christopher-PG5-Houston,2022-10-16,PG5,josh,christopher,active,Houston,5,PG,0,5
+338,2022-10-16-trevor-hudgins-PG6-Houston,2022-10-16,PG6,trevor,hudgins,active,Houston,6,PG,0,6
+339,2022-10-16-jalen-green-SG1-Houston,2022-10-16,SG1,jalen,green,active,Houston,1,SG,0,1
+340,2022-10-16-josh-christopher-SG2-Houston,2022-10-16,SG2,josh,christopher,active,Houston,2,SG,0,2
+341,2022-10-16-garrison-mathews-SG3-Houston,2022-10-16,SG3,garrison,mathews,active,Houston,3,SG,0,3
+342,2022-10-16-eric-gordon-SG4-Houston,2022-10-16,SG4,eric,gordon,active,Houston,4,SG,0,4
+343,2022-10-16-kevin-porter-jr.-SG5-Houston,2022-10-16,SG5,kevin,porter-jr.,active,Houston,5,SG,0,5
+344,2022-10-16-jae'sean-tate-SG6-Houston,2022-10-16,SG6,jae'sean,tate,active,Houston,6,SG,0,6
+345,2022-10-16-eric-gordon-SF1-Houston,2022-10-16,SF1,eric,gordon,active,Houston,1,SF,0,1
+346,2022-10-16-jae'sean-tate-SF2-Houston,2022-10-16,SF2,jae'sean,tate,active,Houston,2,SF,0,2
+347,2022-10-16-tari-eason-SF3-Houston,2022-10-16,SF3,tari,eason,active,Houston,3,SF,0,3
+348,2022-10-16-garrison-mathews-SF4-Houston,2022-10-16,SF4,garrison,mathews,active,Houston,4,SF,0,4
+349,2022-10-16-josh-christopher-SF5-Houston,2022-10-16,SF5,josh,christopher,active,Houston,5,SF,0,5
+350,2022-10-16-jalen-green-SF6-Houston,2022-10-16,SF6,jalen,green,active,Houston,6,SF,0,6
+351,2022-10-16-kenyon-martin-jr.-SF7-Houston,2022-10-16,SF7,kenyon,martin-jr.,active,Houston,7,SF,0,7
+352,2022-10-16-jabari-smith-jr.-PF1-Houston,2022-10-16,PF1,jabari,smith-jr.,active,Houston,1,PF,0,1
+353,2022-10-16-tari-eason-PF2-Houston,2022-10-16,PF2,tari,eason,active,Houston,2,PF,0,2
+354,2022-10-16-jae'sean-tate-PF3-Houston,2022-10-16,PF3,jae'sean,tate,active,Houston,3,PF,0,3
+355,2022-10-16-kenyon-martin-jr.-PF4-Houston,2022-10-16,PF4,kenyon,martin-jr.,active,Houston,4,PF,0,4
+356,2022-10-16-usman-garuba-PF5-Houston,2022-10-16,PF5,usman,garuba,active,Houston,5,PF,0,5
+357,2022-10-16-bruno-fernando-PF6-Houston,2022-10-16,PF6,bruno,fernando,active,Houston,6,PF,0,6
+358,2022-10-16-alperen-sengun-PF7-Houston,2022-10-16,PF7,alperen,sengun,active,Houston,7,PF,0,7
+359,2022-10-16-darius-days-PF8-Houston,2022-10-16,PF8,darius,days,active,Houston,8,PF,0,8
+360,2022-10-16-alperen-sengun-C1-Houston,2022-10-16,C1,alperen,sengun,active,Houston,1,C,0,1
+361,2022-10-16-tari-eason-C2-Houston,2022-10-16,C2,tari,eason,active,Houston,2,C,0,2
+362,2022-10-16-bruno-fernando-C3-Houston,2022-10-16,C3,bruno,fernando,active,Houston,3,C,0,3
+363,2022-10-16-usman-garuba-C4-Houston,2022-10-16,C4,usman,garuba,active,Houston,4,C,0,4
+364,2022-10-16-boban-marjanovic-C5-Houston,2022-10-16,C5,boban,marjanovic,active,Houston,5,C,0,5
+365,2022-10-16-kenyon-martin-jr.-C6-Houston,2022-10-16,C6,kenyon,martin-jr.,active,Houston,6,C,0,6
+366,2022-10-16-jabari-smith-jr.-C7-Houston,2022-10-16,C7,jabari,smith-jr.,active,Houston,7,C,0,7
+367,2022-10-16-darius-days-C8-Houston,2022-10-16,C8,darius,days,active,Houston,8,C,0,8
+368,2022-10-16-tyrese-haliburton-PG1-Indiana,2022-10-16,PG1,tyrese,haliburton,active,Indiana,1,PG,0,1
+369,2022-10-16-t.j.-mcconnell-PG2-Indiana,2022-10-16,PG2,t.j.,mcconnell,active,Indiana,2,PG,0,2
+370,2022-10-16-chris-duarte-PG3-Indiana,2022-10-16,PG3,chris,duarte,active,Indiana,3,PG,0,3
+371,2022-10-16-andrew-nembhard-PG4-Indiana,2022-10-16,PG4,andrew,nembhard,active,Indiana,4,PG,0,4
+372,2022-10-16-langston-galloway-PG6-Indiana,2022-10-16,PG6,langston,galloway,active,Indiana,6,PG,0,6
+373,2022-10-16-chris-duarte-SG1-Indiana,2022-10-16,SG1,chris,duarte,active,Indiana,1,SG,0,1
+374,2022-10-16-bennedict-mathurin-SG2-Indiana,2022-10-16,SG2,bennedict,mathurin,active,Indiana,2,SG,0,2
+375,2022-10-16-aaron-nesmith-SG3-Indiana,2022-10-16,SG3,aaron,nesmith,active,Indiana,3,SG,0,3
+376,2022-10-16-tyrese-haliburton-SG4-Indiana,2022-10-16,SG4,tyrese,haliburton,active,Indiana,4,SG,0,4
+377,2022-10-16-buddy-hield-SG5-Indiana,2022-10-16,SG5,buddy,hield,active,Indiana,5,SG,0,5
+378,2022-10-16-andrew-nembhard-SG6-Indiana,2022-10-16,SG6,andrew,nembhard,active,Indiana,6,SG,0,6
+379,2022-10-16-kendall-brown-SG7-Indiana,2022-10-16,SG7,kendall,brown,active,Indiana,7,SG,0,7
+380,2022-10-16-deividas-sirvydis-SG8-Indiana,2022-10-16,SG8,deividas,sirvydis,active,Indiana,8,SG,0,8
+381,2022-10-16-trevelin-queen-SG9-Indiana,2022-10-16,SG9,trevelin,queen,active,Indiana,9,SG,0,9
+382,2022-10-16-buddy-hield-SF1-Indiana,2022-10-16,SF1,buddy,hield,active,Indiana,1,SF,0,1
+383,2022-10-16-chris-duarte-SF2-Indiana,2022-10-16,SF2,chris,duarte,active,Indiana,2,SF,0,2
+384,2022-10-16-aaron-nesmith-SF3-Indiana,2022-10-16,SF3,aaron,nesmith,active,Indiana,3,SF,0,3
+385,2022-10-16-bennedict-mathurin-SF4-Indiana,2022-10-16,SF4,bennedict,mathurin,active,Indiana,4,SF,0,4
+386,2022-10-16-oshae-brissett-SF5-Indiana,2022-10-16,SF5,oshae,brissett,active,Indiana,5,SF,0,5
+387,2022-10-16-terry-taylor-SF6-Indiana,2022-10-16,SF6,terry,taylor,active,Indiana,6,SF,0,6
+388,2022-10-16-kendall-brown-SF7-Indiana,2022-10-16,SF7,kendall,brown,active,Indiana,7,SF,0,7
+389,2022-10-16-deividas-sirvydis-SF9-Indiana,2022-10-16,SF9,deividas,sirvydis,active,Indiana,9,SF,0,9
+390,2022-10-16-justin-anderson-SF10-Indiana,2022-10-16,SF10,justin,anderson,active,Indiana,10,SF,0,10
+391,2022-10-16-jalen-smith-PF1-Indiana,2022-10-16,PF1,jalen,smith,active,Indiana,1,PF,0,1
+392,2022-10-16-oshae-brissett-PF2-Indiana,2022-10-16,PF2,oshae,brissett,active,Indiana,2,PF,0,2
+393,2022-10-16-terry-taylor-PF3-Indiana,2022-10-16,PF3,terry,taylor,active,Indiana,3,PF,0,3
+394,2022-10-16-daniel-theis-PF4-Indiana,2022-10-16,PF4,daniel,theis,active,Indiana,4,PF,0,4
+395,2022-10-16-isaiah-jackson-PF5-Indiana,2022-10-16,PF5,isaiah,jackson,active,Indiana,5,PF,0,5
+396,2022-10-16-james-johnson-PF6-Indiana,2022-10-16,PF6,james,johnson,active,Indiana,6,PF,0,6
+397,2022-10-16-myles-turner-C1-Indiana,2022-10-16,C1,myles,turner,active,Indiana,1,C,0,1
+398,2022-10-16-isaiah-jackson-C2-Indiana,2022-10-16,C2,isaiah,jackson,active,Indiana,2,C,0,2
+399,2022-10-16-goga-bitadze-C3-Indiana,2022-10-16,C3,goga,bitadze,active,Indiana,3,C,0,3
+400,2022-10-16-jalen-smith-C4-Indiana,2022-10-16,C4,jalen,smith,active,Indiana,4,C,0,4
+401,2022-10-16-daniel-theis-C5-Indiana,2022-10-16,C5,daniel,theis,active,Indiana,5,C,0,5
+402,2022-10-16-terry-taylor-C6-Indiana,2022-10-16,C6,terry,taylor,active,Indiana,6,C,0,6
+403,2022-10-16-oshae-brissett-C7-Indiana,2022-10-16,C7,oshae,brissett,active,Indiana,7,C,0,7
+404,2022-10-16-norvel-pelle-C8-Indiana,2022-10-16,C8,norvel,pelle,active,Indiana,8,C,0,8
+405,2022-10-16-reggie-jackson-PG1-LA Clippers,2022-10-16,PG1,reggie,jackson,active,LA Clippers,1,PG,0,1
+406,2022-10-16-john-wall-PG2-LA Clippers,2022-10-16,PG2,john,wall,active,LA Clippers,2,PG,0,2
+407,2022-10-16-terance-mann-PG3-LA Clippers,2022-10-16,PG3,terance,mann,active,LA Clippers,3,PG,0,3
+408,2022-10-16-jason-preston-PG4-LA Clippers,2022-10-16,PG4,jason,preston,active,LA Clippers,4,PG,0,4
+409,2022-10-16-brandon-boston-jr.-PG5-LA Clippers,2022-10-16,PG5,brandon,boston-jr.,active,LA Clippers,5,PG,0,5
+410,2022-10-16-norman-powell-PG6-LA Clippers,2022-10-16,PG6,norman,powell,active,LA Clippers,6,PG,0,6
+411,2022-10-16-luke-kennard-PG7-LA Clippers,2022-10-16,PG7,luke,kennard,active,LA Clippers,7,PG,0,7
+412,2022-10-16-keaton-wallace-PG8-LA Clippers,2022-10-16,PG8,keaton,wallace,active,LA Clippers,8,PG,0,8
+413,2022-10-16-paul-george-SG1-LA Clippers,2022-10-16,SG1,paul,george,active,LA Clippers,1,SG,0,1
+414,2022-10-16-norman-powell-SG2-LA Clippers,2022-10-16,SG2,norman,powell,active,LA Clippers,2,SG,0,2
+415,2022-10-16-terance-mann-SG3-LA Clippers,2022-10-16,SG3,terance,mann,active,LA Clippers,3,SG,0,3
+416,2022-10-16-luke-kennard-SG4-LA Clippers,2022-10-16,SG4,luke,kennard,active,LA Clippers,4,SG,0,4
+417,2022-10-16-amir-coffey-SG5-LA Clippers,2022-10-16,SG5,amir,coffey,active,LA Clippers,5,SG,0,5
+418,2022-10-16-brandon-boston-jr.-SG6-LA Clippers,2022-10-16,SG6,brandon,boston-jr.,active,LA Clippers,6,SG,0,6
+419,2022-10-16-reggie-jackson-SG7-LA Clippers,2022-10-16,SG7,reggie,jackson,active,LA Clippers,7,SG,0,7
+420,2022-10-16-jason-preston-SG8-LA Clippers,2022-10-16,SG8,jason,preston,active,LA Clippers,8,SG,0,8
+421,2022-10-16-keaton-wallace-SG9-LA Clippers,2022-10-16,SG9,keaton,wallace,active,LA Clippers,9,SG,0,9
+422,2022-10-16-kawhi-leonard-SF1-LA Clippers,2022-10-16,SF1,kawhi,leonard,active,LA Clippers,1,SF,0,1
+423,2022-10-16-luke-kennard-SF2-LA Clippers,2022-10-16,SF2,luke,kennard,active,LA Clippers,2,SF,0,2
+424,2022-10-16-robert-covington-SF3-LA Clippers,2022-10-16,SF3,robert,covington,active,LA Clippers,3,SF,0,3
+425,2022-10-16-terance-mann-SF4-LA Clippers,2022-10-16,SF4,terance,mann,active,LA Clippers,4,SF,0,4
+426,2022-10-16-marcus-morris-sr.-SF5-LA Clippers,2022-10-16,SF5,marcus,morris-sr.,active,LA Clippers,5,SF,0,5
+427,2022-10-16-amir-coffey-SF6-LA Clippers,2022-10-16,SF6,amir,coffey,active,LA Clippers,6,SF,0,6
+428,2022-10-16-brandon-boston-jr.-SF7-LA Clippers,2022-10-16,SF7,brandon,boston-jr.,active,LA Clippers,7,SF,0,7
+429,2022-10-16-norman-powell-SF8-LA Clippers,2022-10-16,SF8,norman,powell,active,LA Clippers,8,SF,0,8
+430,2022-10-16-paul-george-SF9-LA Clippers,2022-10-16,SF9,paul,george,active,LA Clippers,9,SF,0,9
+431,2022-10-16-nicolas-batum-SF10-LA Clippers,2022-10-16,SF10,nicolas,batum,active,LA Clippers,10,SF,0,10
+432,2022-10-16-marcus-morris-sr.-PF1-LA Clippers,2022-10-16,PF1,marcus,morris-sr.,active,LA Clippers,1,PF,0,1
+433,2022-10-16-nicolas-batum-PF2-LA Clippers,2022-10-16,PF2,nicolas,batum,active,LA Clippers,2,PF,0,2
+434,2022-10-16-robert-covington-PF3-LA Clippers,2022-10-16,PF3,robert,covington,active,LA Clippers,3,PF,0,3
+435,2022-10-16-amir-coffey-PF4-LA Clippers,2022-10-16,PF4,amir,coffey,active,LA Clippers,4,PF,0,4
+436,2022-10-16-terance-mann-PF5-LA Clippers,2022-10-16,PF5,terance,mann,active,LA Clippers,5,PF,0,5
+437,2022-10-16-paul-george-PF6-LA Clippers,2022-10-16,PF6,paul,george,active,LA Clippers,6,PF,0,6
+438,2022-10-16-kawhi-leonard-PF7-LA Clippers,2022-10-16,PF7,kawhi,leonard,active,LA Clippers,7,PF,0,7
+439,2022-10-16-moussa-diabate-PF8-LA Clippers,2022-10-16,PF8,moussa,diabate,active,LA Clippers,8,PF,0,8
+440,2022-10-16-ivica-zubac-C1-LA Clippers,2022-10-16,C1,ivica,zubac,active,LA Clippers,1,C,0,1
+441,2022-10-16-robert-covington-C2-LA Clippers,2022-10-16,C2,robert,covington,active,LA Clippers,2,C,0,2
+442,2022-10-16-nicolas-batum-C3-LA Clippers,2022-10-16,C3,nicolas,batum,active,LA Clippers,3,C,0,3
+443,2022-10-16-moses-brown-C4-LA Clippers,2022-10-16,C4,moses,brown,active,LA Clippers,4,C,0,4
+444,2022-10-16-russell-westbrook-PG1-LA Lakers,2022-10-16,PG1,russell,westbrook,active,LA Lakers,1,PG,0,1
+445,2022-10-16-patrick-beverley-PG3-LA Lakers,2022-10-16,PG3,patrick,beverley,active,LA Lakers,3,PG,0,3
+446,2022-10-16-kendrick-nunn-PG4-LA Lakers,2022-10-16,PG4,kendrick,nunn,active,LA Lakers,4,PG,0,4
+447,2022-10-16-dennis-schroder-PG2-LA Lakers,2022-10-16,PG2,dennis,schroder,active,LA Lakers,2,PG,0,2
+448,2022-10-16-austin-reaves-PG5-LA Lakers,2022-10-16,PG5,austin,reaves,active,LA Lakers,5,PG,0,5
+449,2022-10-16-lebron-james-PG6-LA Lakers,2022-10-16,PG6,lebron,james,active,LA Lakers,6,PG,0,6
+450,2022-10-16-scotty-pippen-jr.-PG7-LA Lakers,2022-10-16,PG7,scotty,pippen-jr.,active,LA Lakers,7,PG,0,7
+451,2022-10-16-kendrick-nunn-SG2-LA Lakers,2022-10-16,SG2,kendrick,nunn,active,LA Lakers,2,SG,0,2
+452,2022-10-16-dennis-schroder-SG3-LA Lakers,2022-10-16,SG3,dennis,schroder,active,LA Lakers,3,SG,0,3
+453,2022-10-16-patrick-beverley-SG1-LA Lakers,2022-10-16,SG1,patrick,beverley,active,LA Lakers,1,SG,0,1
+454,2022-10-16-austin-reaves-SG4-LA Lakers,2022-10-16,SG4,austin,reaves,active,LA Lakers,4,SG,0,4
+455,2022-10-16-lonnie-walker-iv-SG5-LA Lakers,2022-10-16,SG5,lonnie,walker-iv,active,LA Lakers,5,SG,0,5
+456,2022-10-16-troy-brown-jr.-SG6-LA Lakers,2022-10-16,SG6,troy,brown-jr.,injured,LA Lakers,6,SG,0,6
+457,2022-10-16-lebron-james-SF3-LA Lakers,2022-10-16,SF3,lebron,james,active,LA Lakers,3,SF,0,3
+458,2022-10-16-austin-reaves-SF2-LA Lakers,2022-10-16,SF2,austin,reaves,active,LA Lakers,2,SF,0,2
+459,2022-10-16-troy-brown-jr.-SF4-LA Lakers,2022-10-16,SF4,troy,brown-jr.,injured,LA Lakers,4,SF,0,4
+460,2022-10-16-juan-toscano-anderson-SF5-LA Lakers,2022-10-16,SF5,juan,toscano-anderson,active,LA Lakers,5,SF,1,4
+461,2022-10-16-lonnie-walker-iv-SF1-LA Lakers,2022-10-16,SF1,lonnie,walker-iv,active,LA Lakers,1,SF,0,1
+462,2022-10-16-kendrick-nunn-SF6-LA Lakers,2022-10-16,SF6,kendrick,nunn,active,LA Lakers,6,SF,1,5
+463,2022-10-16-max-christie-SF6-LA Lakers,2022-10-16,SF6,max,christie,active,LA Lakers,6,SF,1,5
+464,2022-10-16-wenyen-gabriel-SF7-LA Lakers,2022-10-16,SF7,wenyen,gabriel,active,LA Lakers,7,SF,1,6
+465,2022-10-16-matt-ryan-SF8-LA Lakers,2022-10-16,SF8,matt,ryan,active,LA Lakers,8,SF,1,7
+466,2022-10-16-cole-swider-SF9-LA Lakers,2022-10-16,SF9,cole,swider,active,LA Lakers,9,SF,1,8
+467,2022-10-16-anthony-davis-PF3-LA Lakers,2022-10-16,PF3,anthony,davis,active,LA Lakers,3,PF,0,3
+468,2022-10-16-juan-toscano-anderson-PF2-LA Lakers,2022-10-16,PF2,juan,toscano-anderson,active,LA Lakers,2,PF,0,2
+469,2022-10-16-wenyen-gabriel-PF4-LA Lakers,2022-10-16,PF4,wenyen,gabriel,active,LA Lakers,4,PF,0,4
+470,2022-10-16-lebron-james-PF1-LA Lakers,2022-10-16,PF1,lebron,james,active,LA Lakers,1,PF,0,1
+471,2022-10-16-thomas-bryant-PF6-LA Lakers,2022-10-16,PF6,thomas,bryant,active,LA Lakers,6,PF,1,5
+472,2022-10-16-troy-brown-jr.-PF5-LA Lakers,2022-10-16,PF5,troy,brown-jr.,injured,LA Lakers,5,PF,0,5
+473,2022-10-16-damian-jones-C2-LA Lakers,2022-10-16,C2,damian,jones,active,LA Lakers,2,C,0,2
+474,2022-10-16-thomas-bryant-C3-LA Lakers,2022-10-16,C3,thomas,bryant,active,LA Lakers,3,C,0,3
+475,2022-10-16-anthony-davis-C1-LA Lakers,2022-10-16,C1,anthony,davis,active,LA Lakers,1,C,0,1
+476,2022-10-16-wenyen-gabriel-C4-LA Lakers,2022-10-16,C4,wenyen,gabriel,active,LA Lakers,4,C,0,4
+477,2022-10-16-lebron-james-C5-LA Lakers,2022-10-16,C5,lebron,james,active,LA Lakers,5,C,0,5
+478,2022-10-16-ja-morant-PG1-Memphis,2022-10-16,PG1,ja,morant,active,Memphis,1,PG,0,1
+479,2022-10-16-tyus-jones-PG2-Memphis,2022-10-16,PG2,tyus,jones,active,Memphis,2,PG,0,2
+480,2022-10-16-kennedy-chandler-PG3-Memphis,2022-10-16,PG3,kennedy,chandler,active,Memphis,3,PG,0,3
+481,2022-10-16-john-konchar-PG4-Memphis,2022-10-16,PG4,john,konchar,active,Memphis,4,PG,0,4
+482,2022-10-16-desmond-bane-PG5-Memphis,2022-10-16,PG5,desmond,bane,active,Memphis,5,PG,0,5
+483,2022-10-16-desmond-bane-SG1-Memphis,2022-10-16,SG1,desmond,bane,active,Memphis,1,SG,0,1
+484,2022-10-16-john-konchar-SG2-Memphis,2022-10-16,SG2,john,konchar,active,Memphis,2,SG,0,2
+485,2022-10-16-ziaire-williams-SG3-Memphis,2022-10-16,SG3,ziaire,williams,active,Memphis,3,SG,0,3
+486,2022-10-16-dillon-brooks-SG4-Memphis,2022-10-16,SG4,dillon,brooks,active,Memphis,4,SG,0,4
+487,2022-10-16-david-roddy-SG5-Memphis,2022-10-16,SG5,david,roddy,active,Memphis,5,SG,0,5
+488,2022-10-16-vince-williams-jr.-SG6-Memphis,2022-10-16,SG6,vince,williams-jr.,active,Memphis,6,SG,0,6
+489,2022-10-16-danny-green-SG7-Memphis,2022-10-16,SG7,danny,green,active,Memphis,7,SG,0,7
+490,2022-10-16-dillon-brooks-SF1-Memphis,2022-10-16,SF1,dillon,brooks,active,Memphis,1,SF,0,1
+491,2022-10-16-ziaire-williams-SF2-Memphis,2022-10-16,SF2,ziaire,williams,active,Memphis,2,SF,0,2
+492,2022-10-16-john-konchar-SF3-Memphis,2022-10-16,SF3,john,konchar,active,Memphis,3,SF,0,3
+493,2022-10-16-david-roddy-SF4-Memphis,2022-10-16,SF4,david,roddy,active,Memphis,4,SF,0,4
+494,2022-10-16-desmond-bane-SF5-Memphis,2022-10-16,SF5,desmond,bane,active,Memphis,5,SF,0,5
+495,2022-10-16-jake-laravia-SF6-Memphis,2022-10-16,SF6,jake,laravia,active,Memphis,6,SF,0,6
+496,2022-10-16-vince-williams-jr.-SF7-Memphis,2022-10-16,SF7,vince,williams-jr.,active,Memphis,7,SF,0,7
+497,2022-10-16-brandon-clarke-SF8-Memphis,2022-10-16,SF8,brandon,clarke,active,Memphis,8,SF,0,8
+498,2022-10-16-danny-green-SF9-Memphis,2022-10-16,SF9,danny,green,active,Memphis,9,SF,0,9
+499,2022-10-16-santi-aldama-PF1-Memphis,2022-10-16,PF1,santi,aldama,active,Memphis,1,PF,0,1
+500,2022-10-16-brandon-clarke-PF2-Memphis,2022-10-16,PF2,brandon,clarke,active,Memphis,2,PF,0,2
+501,2022-10-16-jake-laravia-PF3-Memphis,2022-10-16,PF3,jake,laravia,active,Memphis,3,PF,0,3
+502,2022-10-16-ziaire-williams-PF4-Memphis,2022-10-16,PF4,ziaire,williams,active,Memphis,4,PF,0,4
+503,2022-10-16-xavier-tillman-PF5-Memphis,2022-10-16,PF5,xavier,tillman,active,Memphis,5,PF,0,5
+504,2022-10-16-desmond-bane-PF6-Memphis,2022-10-16,PF6,desmond,bane,active,Memphis,6,PF,0,6
+505,2022-10-16-kenny-lofton-jr.-PF7-Memphis,2022-10-16,PF7,kenny,lofton-jr.,active,Memphis,7,PF,0,7
+506,2022-10-16-jaren-jackson-jr.-PF9-Memphis,2022-10-16,PF9,jaren,jackson-jr.,active,Memphis,9,PF,0,9
+507,2022-10-16-steven-adams-C1-Memphis,2022-10-16,C1,steven,adams,active,Memphis,1,C,0,1
+508,2022-10-16-xavier-tillman-C2-Memphis,2022-10-16,C2,xavier,tillman,active,Memphis,2,C,0,2
+509,2022-10-16-santi-aldama-C3-Memphis,2022-10-16,C3,santi,aldama,active,Memphis,3,C,0,3
+510,2022-10-16-brandon-clarke-C4-Memphis,2022-10-16,C4,brandon,clarke,active,Memphis,4,C,0,4
+511,2022-10-16-kenny-lofton-jr.-C5-Memphis,2022-10-16,C5,kenny,lofton-jr.,active,Memphis,5,C,0,5
+512,2022-10-16-jaren-jackson-jr.-C6-Memphis,2022-10-16,C6,jaren,jackson-jr.,active,Memphis,6,C,0,6
+513,2022-10-16-kyle-lowry-PG1-Miami,2022-10-16,PG1,kyle,lowry,active,Miami,1,PG,0,1
+514,2022-10-16-gabe-vincent-PG2-Miami,2022-10-16,PG2,gabe,vincent,active,Miami,2,PG,0,2
+515,2022-10-16-victor-oladipo-PG3-Miami,2022-10-16,PG3,victor,oladipo,active,Miami,3,PG,0,3
+516,2022-10-16-tyler-herro-PG4-Miami,2022-10-16,PG4,tyler,herro,active,Miami,4,PG,0,4
+517,2022-10-16-dru-smith-PG5-Miami,2022-10-16,PG5,dru,smith,active,Miami,5,PG,0,5
+518,2022-10-16-tyler-herro-SG1-Miami,2022-10-16,SG1,tyler,herro,active,Miami,1,SG,0,1
+519,2022-10-16-victor-oladipo-SG2-Miami,2022-10-16,SG2,victor,oladipo,active,Miami,2,SG,0,2
+520,2022-10-16-max-strus-SG3-Miami,2022-10-16,SG3,max,strus,active,Miami,3,SG,0,3
+521,2022-10-16-duncan-robinson-SG4-Miami,2022-10-16,SG4,duncan,robinson,active,Miami,4,SG,0,4
+522,2022-10-16-caleb-martin-SG5-Miami,2022-10-16,SG5,caleb,martin,active,Miami,5,SG,0,5
+523,2022-10-16-haywood-highsmith-SG6-Miami,2022-10-16,SG6,haywood,highsmith,active,Miami,6,SG,0,6
+524,2022-10-16-gabe-vincent-SG7-Miami,2022-10-16,SG7,gabe,vincent,active,Miami,7,SG,0,7
+525,2022-10-16-dru-smith-SG8-Miami,2022-10-16,SG8,dru,smith,active,Miami,8,SG,0,8
+526,2022-10-16-caleb-martin-SF1-Miami,2022-10-16,SF1,caleb,martin,active,Miami,1,SF,0,1
+527,2022-10-16-duncan-robinson-SF2-Miami,2022-10-16,SF2,duncan,robinson,active,Miami,2,SF,0,2
+528,2022-10-16-jamal-cain-SF3-Miami,2022-10-16,SF3,jamal,cain,active,Miami,3,SF,0,3
+529,2022-10-16-max-strus-SF4-Miami,2022-10-16,SF4,max,strus,active,Miami,4,SF,0,4
+530,2022-10-16-haywood-highsmith-SF5-Miami,2022-10-16,SF5,haywood,highsmith,active,Miami,5,SF,0,5
+531,2022-10-16-jimmy-butler-SF6-Miami,2022-10-16,SF6,jimmy,butler,active,Miami,6,SF,0,6
+532,2022-10-16-victor-oladipo-SF7-Miami,2022-10-16,SF7,victor,oladipo,active,Miami,7,SF,0,7
+533,2022-10-16-nikola-jovic-SF8-Miami,2022-10-16,SF8,nikola,jovic,active,Miami,8,SF,0,8
+534,2022-10-16-tyler-herro-SF9-Miami,2022-10-16,SF9,tyler,herro,active,Miami,9,SF,0,9
+535,2022-10-16-jimmy-butler-PF1-Miami,2022-10-16,PF1,jimmy,butler,active,Miami,1,PF,0,1
+536,2022-10-16-max-strus-PF2-Miami,2022-10-16,PF2,max,strus,active,Miami,2,PF,0,2
+537,2022-10-16-nikola-jovic-PF3-Miami,2022-10-16,PF3,nikola,jovic,active,Miami,3,PF,0,3
+538,2022-10-16-haywood-highsmith-PF4-Miami,2022-10-16,PF4,haywood,highsmith,active,Miami,4,PF,0,4
+539,2022-10-16-jamal-cain-PF5-Miami,2022-10-16,PF5,jamal,cain,active,Miami,5,PF,0,5
+540,2022-10-16-duncan-robinson-PF6-Miami,2022-10-16,PF6,duncan,robinson,active,Miami,6,PF,0,6
+541,2022-10-16-caleb-martin-PF7-Miami,2022-10-16,PF7,caleb,martin,active,Miami,7,PF,0,7
+542,2022-10-16-bam-adebayo-PF8-Miami,2022-10-16,PF8,bam,adebayo,active,Miami,8,PF,0,8
+543,2022-10-16-bam-adebayo-C1-Miami,2022-10-16,C1,bam,adebayo,active,Miami,1,C,0,1
+544,2022-10-16-dewayne-dedmon-C2-Miami,2022-10-16,C2,dewayne,dedmon,active,Miami,2,C,0,2
+545,2022-10-16-omer-yurtseven-C3-Miami,2022-10-16,C3,omer,yurtseven,active,Miami,3,C,0,3
+546,2022-10-16-udonis-haslem-C4-Miami,2022-10-16,C4,udonis,haslem,active,Miami,4,C,0,4
+547,2022-10-16-jrue-holiday-PG1-Milwaukee,2022-10-16,PG1,jrue,holiday,active,Milwaukee,1,PG,0,1
+548,2022-10-16-george-hill-PG2-Milwaukee,2022-10-16,PG2,george,hill,active,Milwaukee,2,PG,0,2
+549,2022-10-16-jevon-carter-PG3-Milwaukee,2022-10-16,PG3,jevon,carter,active,Milwaukee,3,PG,0,3
+550,2022-10-16-grayson-allen-PG4-Milwaukee,2022-10-16,PG4,grayson,allen,active,Milwaukee,4,PG,0,4
+551,2022-10-16-joe-ingles-PG5-Milwaukee,2022-10-16,PG5,joe,ingles,active,Milwaukee,5,PG,0,5
+552,2022-10-16-grayson-allen-SG1-Milwaukee,2022-10-16,SG1,grayson,allen,active,Milwaukee,1,SG,0,1
+553,2022-10-16-pat-connaughton-SG2-Milwaukee,2022-10-16,SG2,pat,connaughton,injured,Milwaukee,2,SG,0,2
+554,2022-10-16-wesley-matthews-SG3-Milwaukee,2022-10-16,SG3,wesley,matthews,active,Milwaukee,3,SG,1,2
+555,2022-10-16-george-hill-SG4-Milwaukee,2022-10-16,SG4,george,hill,active,Milwaukee,4,SG,1,3
+556,2022-10-16-khris-middleton-SG5-Milwaukee,2022-10-16,SG5,khris,middleton,active,Milwaukee,5,SG,1,4
+557,2022-10-16-jordan-nwora-SG6-Milwaukee,2022-10-16,SG6,jordan,nwora,active,Milwaukee,6,SG,1,5
+558,2022-10-16-jevon-carter-SG7-Milwaukee,2022-10-16,SG7,jevon,carter,active,Milwaukee,7,SG,1,6
+559,2022-10-16-jrue-holiday-SG8-Milwaukee,2022-10-16,SG8,jrue,holiday,active,Milwaukee,8,SG,1,7
+560,2022-10-16-marjon-beauchamp-SG9-Milwaukee,2022-10-16,SG9,marjon,beauchamp,active,Milwaukee,9,SG,1,8
+561,2022-10-16-aj-green-SG10-Milwaukee,2022-10-16,SG10,aj,green,active,Milwaukee,10,SG,1,9
+562,2022-10-16-khris-middleton-SF1-Milwaukee,2022-10-16,SF1,khris,middleton,active,Milwaukee,1,SF,0,1
+563,2022-10-16-pat-connaughton-SF2-Milwaukee,2022-10-16,SF2,pat,connaughton,injured,Milwaukee,2,SF,0,2
+564,2022-10-16-wesley-matthews-SF3-Milwaukee,2022-10-16,SF3,wesley,matthews,active,Milwaukee,3,SF,1,2
+565,2022-10-16-grayson-allen-SF4-Milwaukee,2022-10-16,SF4,grayson,allen,active,Milwaukee,4,SF,1,3
+566,2022-10-16-jordan-nwora-SF5-Milwaukee,2022-10-16,SF5,jordan,nwora,active,Milwaukee,5,SF,1,4
+567,2022-10-16-marjon-beauchamp-SF6-Milwaukee,2022-10-16,SF6,marjon,beauchamp,active,Milwaukee,6,SF,1,5
+568,2022-10-16-giannis-antetokounmpo-SF7-Milwaukee,2022-10-16,SF7,giannis,antetokounmpo,active,Milwaukee,7,SF,1,6
+569,2022-10-16-thanasis-antetokounmpo-SF8-Milwaukee,2022-10-16,SF8,thanasis,antetokounmpo,active,Milwaukee,8,SF,1,7
+570,2022-10-16-joe-ingles-SF9-Milwaukee,2022-10-16,SF9,joe,ingles,active,Milwaukee,9,SF,1,8
+571,2022-10-16-giannis-antetokounmpo-PF1-Milwaukee,2022-10-16,PF1,giannis,antetokounmpo,active,Milwaukee,1,PF,0,1
+572,2022-10-16-bobby-portis-PF2-Milwaukee,2022-10-16,PF2,bobby,portis,active,Milwaukee,2,PF,0,2
+573,2022-10-16-thanasis-antetokounmpo-PF3-Milwaukee,2022-10-16,PF3,thanasis,antetokounmpo,active,Milwaukee,3,PF,0,3
+574,2022-10-16-serge-ibaka-PF4-Milwaukee,2022-10-16,PF4,serge,ibaka,active,Milwaukee,4,PF,0,4
+575,2022-10-16-pat-connaughton-PF5-Milwaukee,2022-10-16,PF5,pat,connaughton,injured,Milwaukee,5,PF,0,5
+576,2022-10-16-sandro-mamukelashvili-PF6-Milwaukee,2022-10-16,PF6,sandro,mamukelashvili,active,Milwaukee,6,PF,1,5
+577,2022-10-16-joe-ingles-PF7-Milwaukee,2022-10-16,PF7,joe,ingles,active,Milwaukee,7,PF,1,6
+578,2022-10-16-brook-lopez-C1-Milwaukee,2022-10-16,C1,brook,lopez,active,Milwaukee,1,C,0,1
+579,2022-10-16-bobby-portis-C2-Milwaukee,2022-10-16,C2,bobby,portis,active,Milwaukee,2,C,0,2
+580,2022-10-16-serge-ibaka-C3-Milwaukee,2022-10-16,C3,serge,ibaka,active,Milwaukee,3,C,0,3
+581,2022-10-16-giannis-antetokounmpo-C4-Milwaukee,2022-10-16,C4,giannis,antetokounmpo,active,Milwaukee,4,C,0,4
+582,2022-10-16-sandro-mamukelashvili-C5-Milwaukee,2022-10-16,C5,sandro,mamukelashvili,active,Milwaukee,5,C,0,5
+583,2022-10-16-d'angelo-russell-PG1-Minnesota,2022-10-16,PG1,d'angelo,russell,active,Minnesota,1,PG,0,1
+584,2022-10-16-jordan-mclaughlin-PG2-Minnesota,2022-10-16,PG2,jordan,mclaughlin,active,Minnesota,2,PG,0,2
+585,2022-10-16-austin-rivers-PG3-Minnesota,2022-10-16,PG3,austin,rivers,active,Minnesota,3,PG,0,3
+586,2022-10-16-jaylen-nowell-PG4-Minnesota,2022-10-16,PG4,jaylen,nowell,active,Minnesota,4,PG,0,4
+587,2022-10-16-anthony-edwards-PG5-Minnesota,2022-10-16,PG5,anthony,edwards,active,Minnesota,5,PG,0,5
+588,2022-10-16-anthony-edwards-SG1-Minnesota,2022-10-16,SG1,anthony,edwards,active,Minnesota,1,SG,0,1
+589,2022-10-16-austin-rivers-SG2-Minnesota,2022-10-16,SG2,austin,rivers,active,Minnesota,2,SG,0,2
+590,2022-10-16-bryn-forbes-SG3-Minnesota,2022-10-16,SG3,bryn,forbes,active,Minnesota,3,SG,0,3
+591,2022-10-16-jaylen-nowell-SG4-Minnesota,2022-10-16,SG4,jaylen,nowell,active,Minnesota,4,SG,0,4
+592,2022-10-16-d'angelo-russell-SG5-Minnesota,2022-10-16,SG5,d'angelo,russell,active,Minnesota,5,SG,0,5
+593,2022-10-16-wendell-moore-jr.-SG6-Minnesota,2022-10-16,SG6,wendell,moore-jr.,active,Minnesota,6,SG,0,6
+594,2022-10-16-nik-stauskas-SG7-Minnesota,2022-10-16,SG7,nik,stauskas,active,Minnesota,7,SG,0,7
+595,2022-10-16-jaden-mcdaniels-SF1-Minnesota,2022-10-16,SF1,jaden,mcdaniels,active,Minnesota,1,SF,0,1
+596,2022-10-16-kyle-anderson-SF2-Minnesota,2022-10-16,SF2,kyle,anderson,active,Minnesota,2,SF,0,2
+597,2022-10-16-taurean-prince-SF3-Minnesota,2022-10-16,SF3,taurean,prince,active,Minnesota,3,SF,0,3
+598,2022-10-16-anthony-edwards-SF4-Minnesota,2022-10-16,SF4,anthony,edwards,active,Minnesota,4,SF,0,4
+599,2022-10-16-wendell-moore-jr.-SF5-Minnesota,2022-10-16,SF5,wendell,moore-jr.,active,Minnesota,5,SF,0,5
+600,2022-10-16-karl-anthony-towns-PF1-Minnesota,2022-10-16,PF1,karl,anthony-towns,active,Minnesota,1,PF,0,1
+601,2022-10-16-kyle-anderson-PF2-Minnesota,2022-10-16,PF2,kyle,anderson,active,Minnesota,2,PF,0,2
+602,2022-10-16-taurean-prince-PF3-Minnesota,2022-10-16,PF3,taurean,prince,active,Minnesota,3,PF,0,3
+603,2022-10-16-naz-reid-PF4-Minnesota,2022-10-16,PF4,naz,reid,active,Minnesota,4,PF,0,4
+604,2022-10-16-jaden-mcdaniels-PF5-Minnesota,2022-10-16,PF5,jaden,mcdaniels,active,Minnesota,5,PF,0,5
+605,2022-10-16-eric-paschall-PF6-Minnesota,2022-10-16,PF6,eric,paschall,active,Minnesota,6,PF,0,6
+606,2022-10-16-anthony-edwards-PF7-Minnesota,2022-10-16,PF7,anthony,edwards,active,Minnesota,7,PF,0,7
+607,2022-10-16-rudy-gobert-C1-Minnesota,2022-10-16,C1,rudy,gobert,active,Minnesota,1,C,0,1
+608,2022-10-16-naz-reid-C2-Minnesota,2022-10-16,C2,naz,reid,active,Minnesota,2,C,0,2
+609,2022-10-16-karl-anthony-towns-C3-Minnesota,2022-10-16,C3,karl,anthony-towns,active,Minnesota,3,C,0,3
+610,2022-10-16-nathan-knight-C4-Minnesota,2022-10-16,C4,nathan,knight,active,Minnesota,4,C,0,4
+611,2022-10-16-luka-garza-C5-Minnesota,2022-10-16,C5,luka,garza,active,Minnesota,5,C,0,5
+612,2022-10-16-cj-mccollum-PG1-New Orleans,2022-10-16,PG1,cj,mccollum,active,New Orleans,1,PG,0,1
+613,2022-10-16-jose-alvarado-PG2-New Orleans,2022-10-16,PG2,jose,alvarado,active,New Orleans,2,PG,0,2
+614,2022-10-16-devonte'-graham-PG3-New Orleans,2022-10-16,PG3,devonte',graham,active,New Orleans,3,PG,0,3
+615,2022-10-16-dyson-daniels-PG4-New Orleans,2022-10-16,PG4,dyson,daniels,active,New Orleans,4,PG,0,4
+616,2022-10-16-kira-lewis-jr.-PG5-New Orleans,2022-10-16,PG5,kira,lewis-jr.,active,New Orleans,5,PG,0,5
+617,2022-10-16-garrett-temple-PG6-New Orleans,2022-10-16,PG6,garrett,temple,active,New Orleans,6,PG,0,6
+618,2022-10-16-brandon-ingram-SG1-New Orleans,2022-10-16,SG1,brandon,ingram,active,New Orleans,1,SG,0,1
+619,2022-10-16-devonte'-graham-SG2-New Orleans,2022-10-16,SG2,devonte',graham,active,New Orleans,2,SG,0,2
+620,2022-10-16-kira-lewis-jr.-SG3-New Orleans,2022-10-16,SG3,kira,lewis-jr.,active,New Orleans,3,SG,0,3
+621,2022-10-16-garrett-temple-SG4-New Orleans,2022-10-16,SG4,garrett,temple,active,New Orleans,4,SG,0,4
+622,2022-10-16-cj-mccollum-SG5-New Orleans,2022-10-16,SG5,cj,mccollum,active,New Orleans,5,SG,0,5
+623,2022-10-16-herbert-jones-SG6-New Orleans,2022-10-16,SG6,herbert,jones,active,New Orleans,6,SG,0,6
+624,2022-10-16-dereon-seabron-SG7-New Orleans,2022-10-16,SG7,dereon,seabron,active,New Orleans,7,SG,0,7
+625,2022-10-16-herbert-jones-SF1-New Orleans,2022-10-16,SF1,herbert,jones,active,New Orleans,1,SF,0,1
+626,2022-10-16-trey-murphy-iii-SF2-New Orleans,2022-10-16,SF2,trey,murphy-iii,active,New Orleans,2,SF,0,2
+627,2022-10-16-dyson-daniels-SF3-New Orleans,2022-10-16,SF3,dyson,daniels,active,New Orleans,3,SF,0,3
+628,2022-10-16-naji-marshall-SF4-New Orleans,2022-10-16,SF4,naji,marshall,active,New Orleans,4,SF,0,4
+629,2022-10-16-garrett-temple-SF5-New Orleans,2022-10-16,SF5,garrett,temple,active,New Orleans,5,SF,0,5
+630,2022-10-16-brandon-ingram-SF6-New Orleans,2022-10-16,SF6,brandon,ingram,active,New Orleans,6,SF,0,6
+631,2022-10-16-dereon-seabron-SF7-New Orleans,2022-10-16,SF7,dereon,seabron,active,New Orleans,7,SF,0,7
+632,2022-10-16-zion-williamson-PF1-New Orleans,2022-10-16,PF1,zion,williamson,active,New Orleans,1,PF,0,1
+633,2022-10-16-larry-nance-jr.-PF2-New Orleans,2022-10-16,PF2,larry,nance-jr.,active,New Orleans,2,PF,0,2
+634,2022-10-16-jaxson-hayes-PF3-New Orleans,2022-10-16,PF3,jaxson,hayes,active,New Orleans,3,PF,0,3
+635,2022-10-16-naji-marshall-PF4-New Orleans,2022-10-16,PF4,naji,marshall,active,New Orleans,4,PF,0,4
+636,2022-10-16-herbert-jones-PF5-New Orleans,2022-10-16,PF5,herbert,jones,active,New Orleans,5,PF,0,5
+637,2022-10-16-brandon-ingram-PF6-New Orleans,2022-10-16,PF6,brandon,ingram,active,New Orleans,6,PF,0,6
+638,2022-10-16-trey-murphy-iii-PF7-New Orleans,2022-10-16,PF7,trey,murphy-iii,active,New Orleans,7,PF,0,7
+639,2022-10-16-e.j.-liddell-PF8-New Orleans,2022-10-16,PF8,e.j.,liddell,active,New Orleans,8,PF,0,8
+640,2022-10-16-zylan-cheatham-PF9-New Orleans,2022-10-16,PF9,zylan,cheatham,active,New Orleans,9,PF,0,9
+641,2022-10-16-jonas-valanciunas-C1-New Orleans,2022-10-16,C1,jonas,valanciunas,active,New Orleans,1,C,0,1
+642,2022-10-16-jaxson-hayes-C2-New Orleans,2022-10-16,C2,jaxson,hayes,active,New Orleans,2,C,0,2
+643,2022-10-16-willy-hernangomez-C3-New Orleans,2022-10-16,C3,willy,hernangomez,active,New Orleans,3,C,0,3
+644,2022-10-16-larry-nance-jr.-C4-New Orleans,2022-10-16,C4,larry,nance-jr.,active,New Orleans,4,C,0,4
+645,2022-10-16-zion-williamson-C5-New Orleans,2022-10-16,C5,zion,williamson,active,New Orleans,5,C,0,5
+646,2022-10-16-herbert-jones-C6-New Orleans,2022-10-16,C6,herbert,jones,active,New Orleans,6,C,0,6
+647,2022-10-16-jalen-brunson-PG1-New York,2022-10-16,PG1,jalen,brunson,active,New York,1,PG,0,1
+648,2022-10-16-derrick-rose-PG3-New York,2022-10-16,PG3,derrick,rose,active,New York,3,PG,0,3
+649,2022-10-16-immanuel-quickley-PG2-New York,2022-10-16,PG2,immanuel,quickley,active,New York,2,PG,0,2
+650,2022-10-16-ryan-arcidiacono-PG4-New York,2022-10-16,PG4,ryan,arcidiacono,active,New York,4,PG,0,4
+651,2022-10-16-miles-mcbride-PG5-New York,2022-10-16,PG5,miles,mcbride,active,New York,5,PG,0,5
+652,2022-10-16-quentin-grimes-PG6-New York,2022-10-16,PG6,quentin,grimes,active,New York,6,PG,0,6
+653,2022-10-16-rj-barrett-PG7-New York,2022-10-16,PG7,rj,barrett,active,New York,7,PG,0,7
+654,2022-10-16-evan-fournier-SG1-New York,2022-10-16,SG1,evan,fournier,active,New York,1,SG,0,1
+655,2022-10-16-quentin-grimes-SG3-New York,2022-10-16,SG3,quentin,grimes,active,New York,3,SG,0,3
+656,2022-10-16-derrick-rose-SG2-New York,2022-10-16,SG2,derrick,rose,active,New York,2,SG,0,2
+657,2022-10-16-svi-mykhailiuk-SG4-New York,2022-10-16,SG4,svi,mykhailiuk,active,New York,4,SG,0,4
+658,2022-10-16-cam-reddish-SG5-New York,2022-10-16,SG5,cam,reddish,active,New York,5,SG,0,5
+659,2022-10-16-immanuel-quickley-SG6-New York,2022-10-16,SG6,immanuel,quickley,active,New York,6,SG,0,6
+660,2022-10-16-rj-barrett-SG7-New York,2022-10-16,SG7,rj,barrett,active,New York,7,SG,0,7
+661,2022-10-16-trevor-keels-SG8-New York,2022-10-16,SG8,trevor,keels,active,New York,8,SG,0,8
+662,2022-10-16-miles-mcbride-SG9-New York,2022-10-16,SG9,miles,mcbride,active,New York,9,SG,0,9
+663,2022-10-16-rj-barrett-SF1-New York,2022-10-16,SF1,rj,barrett,active,New York,1,SF,0,1
+664,2022-10-16-quentin-grimes-SF2-New York,2022-10-16,SF2,quentin,grimes,active,New York,2,SF,0,2
+665,2022-10-16-cam-reddish-SF3-New York,2022-10-16,SF3,cam,reddish,active,New York,3,SF,0,3
+666,2022-10-16-svi-mykhailiuk-SF4-New York,2022-10-16,SF4,svi,mykhailiuk,active,New York,4,SF,0,4
+667,2022-10-16-evan-fournier-SF5-New York,2022-10-16,SF5,evan,fournier,active,New York,5,SF,0,5
+668,2022-10-16-feron-hunt-SF6-New York,2022-10-16,SF6,feron,hunt,active,New York,6,SF,0,6
+669,2022-10-16-julius-randle-PF1-New York,2022-10-16,PF1,julius,randle,active,New York,1,PF,0,1
+670,2022-10-16-obi-toppin-PF2-New York,2022-10-16,PF2,obi,toppin,active,New York,2,PF,0,2
+671,2022-10-16-cam-reddish-PF3-New York,2022-10-16,PF3,cam,reddish,active,New York,3,PF,0,3
+672,2022-10-16-jericho-sims-PF4-New York,2022-10-16,PF4,jericho,sims,active,New York,4,PF,0,4
+673,2022-10-16-mitchell-robinson-C1-New York,2022-10-16,C1,mitchell,robinson,active,New York,1,C,0,1
+674,2022-10-16-isaiah-hartenstein-C2-New York,2022-10-16,C2,isaiah,hartenstein,active,New York,2,C,0,2
+675,2022-10-16-obi-toppin-C3-New York,2022-10-16,C3,obi,toppin,active,New York,3,C,0,3
+676,2022-10-16-jericho-sims-C4-New York,2022-10-16,C4,jericho,sims,active,New York,4,C,0,4
+677,2022-10-16-julius-randle-C5-New York,2022-10-16,C5,julius,randle,active,New York,5,C,0,5
+678,2022-10-16-shai-gilgeous-alexander-PG1-Oklahoma City,2022-10-16,PG1,shai,gilgeous-alexander,active,Oklahoma City,1,PG,0,1
+679,2022-10-16-josh-giddey-PG2-Oklahoma City,2022-10-16,PG2,josh,giddey,active,Oklahoma City,2,PG,0,2
+680,2022-10-16-tre-mann-PG3-Oklahoma City,2022-10-16,PG3,tre,mann,active,Oklahoma City,3,PG,0,3
+681,2022-10-16-josh-giddey-SG1-Oklahoma City,2022-10-16,SG1,josh,giddey,active,Oklahoma City,1,SG,0,1
+682,2022-10-16-tre-mann-SG2-Oklahoma City,2022-10-16,SG2,tre,mann,active,Oklahoma City,2,SG,0,2
+683,2022-10-16-isaiah-joe-SG3-Oklahoma City,2022-10-16,SG3,isaiah,joe,active,Oklahoma City,3,SG,0,3
+684,2022-10-16-jalen-williams-SG4-Oklahoma City,2022-10-16,SG4,jalen,williams,active,Oklahoma City,4,SG,0,4
+685,2022-10-16-aaron-wiggins-SG5-Oklahoma City,2022-10-16,SG5,aaron,wiggins,active,Oklahoma City,5,SG,0,5
+686,2022-10-16-lindy-waters-iii-SG6-Oklahoma City,2022-10-16,SG6,lindy,waters-iii,active,Oklahoma City,6,SG,0,6
+687,2022-10-16-luguentz-dort-SG7-Oklahoma City,2022-10-16,SG7,luguentz,dort,active,Oklahoma City,7,SG,0,7
+688,2022-10-16-shai-gilgeous-alexander-SG8-Oklahoma City,2022-10-16,SG8,shai,gilgeous-alexander,active,Oklahoma City,8,SG,0,8
+689,2022-10-16-luguentz-dort-SF1-Oklahoma City,2022-10-16,SF1,luguentz,dort,active,Oklahoma City,1,SF,0,1
+690,2022-10-16-jalen-williams-SF2-Oklahoma City,2022-10-16,SF2,jalen,williams,active,Oklahoma City,2,SF,0,2
+691,2022-10-16-aaron-wiggins-SF3-Oklahoma City,2022-10-16,SF3,aaron,wiggins,active,Oklahoma City,3,SF,0,3
+692,2022-10-16-lindy-waters-iii-SF4-Oklahoma City,2022-10-16,SF4,lindy,waters-iii,active,Oklahoma City,4,SF,0,4
+693,2022-10-16-ousmane-dieng-SF5-Oklahoma City,2022-10-16,SF5,ousmane,dieng,active,Oklahoma City,5,SF,0,5
+694,2022-10-16-kenrich-williams-SF6-Oklahoma City,2022-10-16,SF6,kenrich,williams,active,Oklahoma City,6,SF,0,6
+695,2022-10-16-aleksej-pokusevski-SF7-Oklahoma City,2022-10-16,SF7,aleksej,pokusevski,active,Oklahoma City,7,SF,0,7
+696,2022-10-16-darius-bazley-SF8-Oklahoma City,2022-10-16,SF8,darius,bazley,active,Oklahoma City,8,SF,0,8
+697,2022-10-16-josh-giddey-SF9-Oklahoma City,2022-10-16,SF9,josh,giddey,active,Oklahoma City,9,SF,0,9
+698,2022-10-16-eugene-omoruyi-SF10-Oklahoma City,2022-10-16,SF10,eugene,omoruyi,active,Oklahoma City,10,SF,0,10
+699,2022-10-16-darius-bazley-PF2-Oklahoma City,2022-10-16,PF2,darius,bazley,active,Oklahoma City,2,PF,0,2
+700,2022-10-16-aleksej-pokusevski-PF1-Oklahoma City,2022-10-16,PF1,aleksej,pokusevski,active,Oklahoma City,1,PF,0,1
+701,2022-10-16-ousmane-dieng-PF4-Oklahoma City,2022-10-16,PF4,ousmane,dieng,active,Oklahoma City,4,PF,0,4
+702,2022-10-16-kenrich-williams-PF3-Oklahoma City,2022-10-16,PF3,kenrich,williams,active,Oklahoma City,3,PF,0,3
+703,2022-10-16-luguentz-dort-PF5-Oklahoma City,2022-10-16,PF5,luguentz,dort,active,Oklahoma City,5,PF,0,5
+704,2022-10-16-jeremiah-robinson-earl-PF6-Oklahoma City,2022-10-16,PF6,jeremiah,robinson-earl,active,Oklahoma City,6,PF,0,6
+705,2022-10-16-jaylin-williams-PF7-Oklahoma City,2022-10-16,PF7,jaylin,williams,active,Oklahoma City,7,PF,0,7
+706,2022-10-16-eugene-omoruyi-PF8-Oklahoma City,2022-10-16,PF8,eugene,omoruyi,active,Oklahoma City,8,PF,0,8
+707,2022-10-16-chet-holmgren-PF9-Oklahoma City,2022-10-16,PF9,chet,holmgren,active,Oklahoma City,9,PF,0,9
+708,2022-10-16-jeremiah-robinson-earl-C1-Oklahoma City,2022-10-16,C1,jeremiah,robinson-earl,active,Oklahoma City,1,C,0,1
+709,2022-10-16-mike-muscala-C2-Oklahoma City,2022-10-16,C2,mike,muscala,active,Oklahoma City,2,C,0,2
+710,2022-10-16-aleksej-pokusevski-C3-Oklahoma City,2022-10-16,C3,aleksej,pokusevski,active,Oklahoma City,3,C,0,3
+711,2022-10-16-darius-bazley-C4-Oklahoma City,2022-10-16,C4,darius,bazley,active,Oklahoma City,4,C,0,4
+712,2022-10-16-jaylin-williams-C5-Oklahoma City,2022-10-16,C5,jaylin,williams,active,Oklahoma City,5,C,0,5
+713,2022-10-16-chet-holmgren-C6-Oklahoma City,2022-10-16,C6,chet,holmgren,active,Oklahoma City,6,C,0,6
+714,2022-10-16-markelle-fultz-PG2-Orlando,2022-10-16,PG2,markelle,fultz,active,Orlando,2,PG,0,2
+715,2022-10-16-cole-anthony-PG1-Orlando,2022-10-16,PG1,cole,anthony,active,Orlando,1,PG,0,1
+716,2022-10-16-r.j.-hampton-PG3-Orlando,2022-10-16,PG3,r.j.,hampton,active,Orlando,3,PG,0,3
+717,2022-10-16-jalen-suggs-PG4-Orlando,2022-10-16,PG4,jalen,suggs,active,Orlando,4,PG,0,4
+718,2022-10-16-jalen-suggs-SG1-Orlando,2022-10-16,SG1,jalen,suggs,active,Orlando,1,SG,0,1
+719,2022-10-16-gary-harris-SG2-Orlando,2022-10-16,SG2,gary,harris,active,Orlando,2,SG,0,2
+720,2022-10-16-terrence-ross-SG3-Orlando,2022-10-16,SG3,terrence,ross,active,Orlando,3,SG,0,3
+721,2022-10-16-r.j.-hampton-SG4-Orlando,2022-10-16,SG4,r.j.,hampton,active,Orlando,4,SG,0,4
+722,2022-10-16-cole-anthony-SG5-Orlando,2022-10-16,SG5,cole,anthony,active,Orlando,5,SG,0,5
+723,2022-10-16-kevon-harris-SG6-Orlando,2022-10-16,SG6,kevon,harris,active,Orlando,6,SG,0,6
+724,2022-10-16-franz-wagner-SF1-Orlando,2022-10-16,SF1,franz,wagner,active,Orlando,1,SF,0,1
+725,2022-10-16-chuma-okeke-SF2-Orlando,2022-10-16,SF2,chuma,okeke,active,Orlando,2,SF,0,2
+726,2022-10-16-jonathan-isaac-SF3-Orlando,2022-10-16,SF3,jonathan,isaac,active,Orlando,3,SF,0,3
+727,2022-10-16-terrence-ross-SF4-Orlando,2022-10-16,SF4,terrence,ross,active,Orlando,4,SF,0,4
+728,2022-10-16-gary-harris-SF5-Orlando,2022-10-16,SF5,gary,harris,active,Orlando,5,SF,0,5
+729,2022-10-16-paolo-banchero-SF6-Orlando,2022-10-16,SF6,paolo,banchero,active,Orlando,6,SF,0,6
+730,2022-10-16-caleb-houstan-SF7-Orlando,2022-10-16,SF7,caleb,houstan,active,Orlando,7,SF,0,7
+731,2022-10-16-admiral-schofield-SF9-Orlando,2022-10-16,SF9,admiral,schofield,active,Orlando,9,SF,0,9
+732,2022-10-16-bol-bol-SF9-Orlando,2022-10-16,SF9,bol,bol,active,Orlando,9,SF,0,9
+733,2022-10-16-paolo-banchero-PF1-Orlando,2022-10-16,PF1,paolo,banchero,active,Orlando,1,PF,0,1
+734,2022-10-16-jonathan-isaac-PF2-Orlando,2022-10-16,PF2,jonathan,isaac,active,Orlando,2,PF,0,2
+735,2022-10-16-chuma-okeke-PF3-Orlando,2022-10-16,PF3,chuma,okeke,active,Orlando,3,PF,0,3
+736,2022-10-16-mo-bamba-PF4-Orlando,2022-10-16,PF4,mo,bamba,active,Orlando,4,PF,0,4
+737,2022-10-16-moritz-wagner-PF5-Orlando,2022-10-16,PF5,moritz,wagner,active,Orlando,5,PF,0,5
+738,2022-10-16-wendell-carter-jr.-PF6-Orlando,2022-10-16,PF6,wendell,carter-jr.,active,Orlando,6,PF,0,6
+739,2022-10-16-caleb-houstan-PF7-Orlando,2022-10-16,PF7,caleb,houstan,active,Orlando,7,PF,0,7
+740,2022-10-16-admiral-schofield-PF8-Orlando,2022-10-16,PF8,admiral,schofield,active,Orlando,8,PF,0,8
+741,2022-10-16-franz-wagner-PF9-Orlando,2022-10-16,PF9,franz,wagner,active,Orlando,9,PF,0,9
+742,2022-10-16-bol-bol-PF10-Orlando,2022-10-16,PF10,bol,bol,active,Orlando,10,PF,0,10
+743,2022-10-16-wendell-carter-jr.-C1-Orlando,2022-10-16,C1,wendell,carter-jr.,active,Orlando,1,C,0,1
+744,2022-10-16-mo-bamba-C2-Orlando,2022-10-16,C2,mo,bamba,active,Orlando,2,C,0,2
+745,2022-10-16-moritz-wagner-C3-Orlando,2022-10-16,C3,moritz,wagner,active,Orlando,3,C,0,3
+746,2022-10-16-jonathan-isaac-C4-Orlando,2022-10-16,C4,jonathan,isaac,active,Orlando,4,C,0,4
+747,2022-10-16-chuma-okeke-C5-Orlando,2022-10-16,C5,chuma,okeke,active,Orlando,5,C,0,5
+748,2022-10-16-bol-bol-C6-Orlando,2022-10-16,C6,bol,bol,active,Orlando,6,C,0,6
+749,2022-10-16-tyrese-maxey-PG1-Philadelphia,2022-10-16,PG1,tyrese,maxey,active,Philadelphia,1,PG,0,1
+750,2022-10-16-de'anthony-melton-PG2-Philadelphia,2022-10-16,PG2,de'anthony,melton,active,Philadelphia,2,PG,0,2
+751,2022-10-16-shake-milton-PG3-Philadelphia,2022-10-16,PG3,shake,milton,active,Philadelphia,3,PG,0,3
+752,2022-10-16-james-harden-PG4-Philadelphia,2022-10-16,PG4,james,harden,active,Philadelphia,4,PG,0,4
+753,2022-10-16-james-harden-SG1-Philadelphia,2022-10-16,SG1,james,harden,active,Philadelphia,1,SG,0,1
+754,2022-10-16-furkan-korkmaz-SG2-Philadelphia,2022-10-16,SG2,furkan,korkmaz,active,Philadelphia,2,SG,0,2
+755,2022-10-16-matisse-thybulle-SG3-Philadelphia,2022-10-16,SG3,matisse,thybulle,active,Philadelphia,3,SG,0,3
+756,2022-10-16-de'anthony-melton-SG4-Philadelphia,2022-10-16,SG4,de'anthony,melton,active,Philadelphia,4,SG,0,4
+757,2022-10-16-shake-milton-SG5-Philadelphia,2022-10-16,SG5,shake,milton,active,Philadelphia,5,SG,0,5
+758,2022-10-16-tyrese-maxey-SG6-Philadelphia,2022-10-16,SG6,tyrese,maxey,active,Philadelphia,6,SG,0,6
+759,2022-10-16-danuel-house-jr.-SG7-Philadelphia,2022-10-16,SG7,danuel,house-jr.,active,Philadelphia,7,SG,0,7
+760,2022-10-16-jaden-springer-SG8-Philadelphia,2022-10-16,SG8,jaden,springer,active,Philadelphia,8,SG,0,8
+761,2022-10-16-julian-champagnie-SG9-Philadelphia,2022-10-16,SG9,julian,champagnie,active,Philadelphia,9,SG,0,9
+762,2022-10-16-tobias-harris-SF1-Philadelphia,2022-10-16,SF1,tobias,harris,active,Philadelphia,1,SF,0,1
+763,2022-10-16-matisse-thybulle-SF2-Philadelphia,2022-10-16,SF2,matisse,thybulle,active,Philadelphia,2,SF,0,2
+764,2022-10-16-danuel-house-jr.-SF3-Philadelphia,2022-10-16,SF3,danuel,house-jr.,active,Philadelphia,3,SF,0,3
+765,2022-10-16-furkan-korkmaz-SF4-Philadelphia,2022-10-16,SF4,furkan,korkmaz,active,Philadelphia,4,SF,0,4
+766,2022-10-16-p.j.-tucker-SF5-Philadelphia,2022-10-16,SF5,p.j.,tucker,active,Philadelphia,5,SF,0,5
+767,2022-10-16-georges-niang-SF6-Philadelphia,2022-10-16,SF6,georges,niang,active,Philadelphia,6,SF,0,6
+768,2022-10-16-p.j.-tucker-PF1-Philadelphia,2022-10-16,PF1,p.j.,tucker,active,Philadelphia,1,PF,0,1
+769,2022-10-16-georges-niang-PF2-Philadelphia,2022-10-16,PF2,georges,niang,active,Philadelphia,2,PF,0,2
+770,2022-10-16-tobias-harris-PF3-Philadelphia,2022-10-16,PF3,tobias,harris,active,Philadelphia,3,PF,0,3
+771,2022-10-16-danuel-house-jr.-PF4-Philadelphia,2022-10-16,PF4,danuel,house-jr.,active,Philadelphia,4,PF,0,4
+772,2022-10-16-matisse-thybulle-PF5-Philadelphia,2022-10-16,PF5,matisse,thybulle,active,Philadelphia,5,PF,0,5
+773,2022-10-16-paul-reed-PF6-Philadelphia,2022-10-16,PF6,paul,reed,active,Philadelphia,6,PF,0,6
+774,2022-10-16-michael-foster-jr.-PF7-Philadelphia,2022-10-16,PF7,michael,foster-jr.,active,Philadelphia,7,PF,0,7
+775,2022-10-16-joel-embiid-C1-Philadelphia,2022-10-16,C1,joel,embiid,active,Philadelphia,1,C,0,1
+776,2022-10-16-paul-reed-C2-Philadelphia,2022-10-16,C2,paul,reed,active,Philadelphia,2,C,0,2
+777,2022-10-16-montrezl-harrell-C3-Philadelphia,2022-10-16,C3,montrezl,harrell,active,Philadelphia,3,C,0,3
+778,2022-10-16-p.j.-tucker-C4-Philadelphia,2022-10-16,C4,p.j.,tucker,active,Philadelphia,4,C,0,4
+779,2022-10-16-chris-paul-PG1-Phoenix,2022-10-16,PG1,chris,paul,active,Phoenix,1,PG,0,1
+780,2022-10-16-cameron-payne-PG2-Phoenix,2022-10-16,PG2,cameron,payne,active,Phoenix,2,PG,0,2
+781,2022-10-16-devin-booker-PG3-Phoenix,2022-10-16,PG3,devin,booker,active,Phoenix,3,PG,0,3
+782,2022-10-16-duane-washington-jr.-PG4-Phoenix,2022-10-16,PG4,duane,washington-jr.,active,Phoenix,4,PG,0,4
+783,2022-10-16-devin-booker-SG1-Phoenix,2022-10-16,SG1,devin,booker,active,Phoenix,1,SG,0,1
+784,2022-10-16-landry-shamet-SG2-Phoenix,2022-10-16,SG2,landry,shamet,active,Phoenix,2,SG,0,2
+785,2022-10-16-damion-lee-SG3-Phoenix,2022-10-16,SG3,damion,lee,active,Phoenix,3,SG,0,3
+786,2022-10-16-josh-okogie-SG4-Phoenix,2022-10-16,SG4,josh,okogie,active,Phoenix,4,SG,0,4
+787,2022-10-16-mikal-bridges-SG5-Phoenix,2022-10-16,SG5,mikal,bridges,active,Phoenix,5,SG,0,5
+788,2022-10-16-cameron-payne-SG6-Phoenix,2022-10-16,SG6,cameron,payne,active,Phoenix,6,SG,0,6
+789,2022-10-16-duane-washington-jr.-SG7-Phoenix,2022-10-16,SG7,duane,washington-jr.,active,Phoenix,7,SG,0,7
+790,2022-10-16-mikal-bridges-SF1-Phoenix,2022-10-16,SF1,mikal,bridges,active,Phoenix,1,SF,0,1
+791,2022-10-16-torrey-craig-SF2-Phoenix,2022-10-16,SF2,torrey,craig,active,Phoenix,2,SF,0,2
+792,2022-10-16-landry-shamet-SF3-Phoenix,2022-10-16,SF3,landry,shamet,active,Phoenix,3,SF,0,3
+793,2022-10-16-cameron-johnson-SF4-Phoenix,2022-10-16,SF4,cameron,johnson,active,Phoenix,4,SF,0,4
+794,2022-10-16-josh-okogie-SF5-Phoenix,2022-10-16,SF5,josh,okogie,active,Phoenix,5,SF,0,5
+795,2022-10-16-ish-wainright-SF6-Phoenix,2022-10-16,SF6,ish,wainright,active,Phoenix,6,SF,0,6
+796,2022-10-16-jae-crowder-SF7-Phoenix,2022-10-16,SF7,jae,crowder,active,Phoenix,7,SF,0,7
+797,2022-10-16-cameron-johnson-PF1-Phoenix,2022-10-16,PF1,cameron,johnson,active,Phoenix,1,PF,0,1
+798,2022-10-16-dario-saric-PF2-Phoenix,2022-10-16,PF2,dario,saric,active,Phoenix,2,PF,0,2
+799,2022-10-16-torrey-craig-PF3-Phoenix,2022-10-16,PF3,torrey,craig,active,Phoenix,3,PF,0,3
+800,2022-10-16-ish-wainright-PF4-Phoenix,2022-10-16,PF4,ish,wainright,active,Phoenix,4,PF,0,4
+801,2022-10-16-jae-crowder-PF5-Phoenix,2022-10-16,PF5,jae,crowder,active,Phoenix,5,PF,0,5
+802,2022-10-16-deandre-ayton-C1-Phoenix,2022-10-16,C1,deandre,ayton,active,Phoenix,1,C,0,1
+803,2022-10-16-dario-saric-C2-Phoenix,2022-10-16,C2,dario,saric,active,Phoenix,2,C,0,2
+804,2022-10-16-bismack-biyombo-C3-Phoenix,2022-10-16,C3,bismack,biyombo,active,Phoenix,3,C,0,3
+805,2022-10-16-jock-landale-C4-Phoenix,2022-10-16,C4,jock,landale,active,Phoenix,4,C,0,4
+806,2022-10-16-torrey-craig-C5-Phoenix,2022-10-16,C5,torrey,craig,active,Phoenix,5,C,0,5
+807,2022-10-16-ish-wainright-C6-Phoenix,2022-10-16,C6,ish,wainright,active,Phoenix,6,C,0,6
+808,2022-10-16-damian-lillard-PG1-Portland,2022-10-16,PG1,damian,lillard,active,Portland,1,PG,0,1
+809,2022-10-16-gary-payton-ii-PG2-Portland,2022-10-16,PG2,gary,payton-ii,active,Portland,2,PG,0,2
+810,2022-10-16-shaedon-sharpe-PG3-Portland,2022-10-16,PG3,shaedon,sharpe,active,Portland,3,PG,0,3
+811,2022-10-16-justise-winslow-PG4-Portland,2022-10-16,PG4,justise,winslow,active,Portland,4,PG,0,4
+812,2022-10-16-anfernee-simons-PG5-Portland,2022-10-16,PG5,anfernee,simons,active,Portland,5,PG,0,5
+813,2022-10-16-anfernee-simons-SG1-Portland,2022-10-16,SG1,anfernee,simons,active,Portland,1,SG,0,1
+814,2022-10-16-gary-payton-ii-SG2-Portland,2022-10-16,SG2,gary,payton-ii,active,Portland,2,SG,0,2
+815,2022-10-16-josh-hart-SG3-Portland,2022-10-16,SG3,josh,hart,active,Portland,3,SG,0,3
+816,2022-10-16-shaedon-sharpe-SG4-Portland,2022-10-16,SG4,shaedon,sharpe,active,Portland,4,SG,0,4
+817,2022-10-16-keon-johnson-SG5-Portland,2022-10-16,SG5,keon,johnson,active,Portland,5,SG,0,5
+818,2022-10-16-josh-hart-SF1-Portland,2022-10-16,SF1,josh,hart,active,Portland,1,SF,0,1
+819,2022-10-16-nassir-little-SF2-Portland,2022-10-16,SF2,nassir,little,active,Portland,2,SF,0,2
+820,2022-10-16-justise-winslow-SF3-Portland,2022-10-16,SF3,justise,winslow,active,Portland,3,SF,0,3
+821,2022-10-16-keon-johnson-SF4-Portland,2022-10-16,SF4,keon,johnson,active,Portland,4,SF,0,4
+822,2022-10-16-gary-payton-ii-SF5-Portland,2022-10-16,SF5,gary,payton-ii,active,Portland,5,SF,0,5
+823,2022-10-16-jerami-grant-SF6-Portland,2022-10-16,SF6,jerami,grant,active,Portland,6,SF,0,6
+824,2022-10-16-greg-brown-iii-SF7-Portland,2022-10-16,SF7,greg,brown-iii,active,Portland,7,SF,0,7
+825,2022-10-16-jerami-grant-PF1-Portland,2022-10-16,PF1,jerami,grant,active,Portland,1,PF,0,1
+826,2022-10-16-trendon-watford-PF2-Portland,2022-10-16,PF2,trendon,watford,active,Portland,2,PF,0,2
+827,2022-10-16-justise-winslow-PF3-Portland,2022-10-16,PF3,justise,winslow,active,Portland,3,PF,0,3
+828,2022-10-16-josh-hart-PF4-Portland,2022-10-16,PF4,josh,hart,active,Portland,4,PF,0,4
+829,2022-10-16-nassir-little-PF5-Portland,2022-10-16,PF5,nassir,little,active,Portland,5,PF,0,5
+830,2022-10-16-greg-brown-iii-PF6-Portland,2022-10-16,PF6,greg,brown-iii,active,Portland,6,PF,0,6
+831,2022-10-16-jabari-walker-PF7-Portland,2022-10-16,PF7,jabari,walker,active,Portland,7,PF,0,7
+832,2022-10-16-drew-eubanks-PF8-Portland,2022-10-16,PF8,drew,eubanks,active,Portland,8,PF,0,8
+833,2022-10-16-jusuf-nurkic-C1-Portland,2022-10-16,C1,jusuf,nurkic,active,Portland,1,C,0,1
+834,2022-10-16-olivier-sarr-C2-Portland,2022-10-16,C2,olivier,sarr,active,Portland,2,C,0,2
+835,2022-10-16-drew-eubanks-C3-Portland,2022-10-16,C3,drew,eubanks,active,Portland,3,C,0,3
+836,2022-10-16-trendon-watford-C4-Portland,2022-10-16,C4,trendon,watford,active,Portland,4,C,0,4
+837,2022-10-16-greg-brown-iii-C5-Portland,2022-10-16,C5,greg,brown-iii,active,Portland,5,C,0,5
+838,2022-10-16-de'aaron-fox-PG1-Sacramento,2022-10-16,PG1,de'aaron,fox,active,Sacramento,1,PG,0,1
+839,2022-10-16-davion-mitchell-PG2-Sacramento,2022-10-16,PG2,davion,mitchell,active,Sacramento,2,PG,0,2
+840,2022-10-16-matthew-dellavedova-PG3-Sacramento,2022-10-16,PG3,matthew,dellavedova,active,Sacramento,3,PG,0,3
+841,2022-10-16-malik-monk-PG4-Sacramento,2022-10-16,PG4,malik,monk,active,Sacramento,4,PG,0,4
+842,2022-10-16-kevin-huerter-PG5-Sacramento,2022-10-16,PG5,kevin,huerter,active,Sacramento,5,PG,0,5
+843,2022-10-16-terence-davis-PG6-Sacramento,2022-10-16,PG6,terence,davis,active,Sacramento,6,PG,0,6
+844,2022-10-16-kevin-huerter-SG1-Sacramento,2022-10-16,SG1,kevin,huerter,active,Sacramento,1,SG,0,1
+845,2022-10-16-malik-monk-SG2-Sacramento,2022-10-16,SG2,malik,monk,active,Sacramento,2,SG,0,2
+846,2022-10-16-terence-davis-SG3-Sacramento,2022-10-16,SG3,terence,davis,active,Sacramento,3,SG,0,3
+847,2022-10-16-davion-mitchell-SG4-Sacramento,2022-10-16,SG4,davion,mitchell,active,Sacramento,4,SG,0,4
+848,2022-10-16-keon-ellis-SG5-Sacramento,2022-10-16,SG5,keon,ellis,active,Sacramento,5,SG,0,5
+849,2022-10-16-harrison-barnes-SF1-Sacramento,2022-10-16,SF1,harrison,barnes,active,Sacramento,1,SF,0,1
+850,2022-10-16-terence-davis-SF2-Sacramento,2022-10-16,SF2,terence,davis,active,Sacramento,2,SF,0,2
+851,2022-10-16-kevin-huerter-SF3-Sacramento,2022-10-16,SF3,kevin,huerter,active,Sacramento,3,SF,0,3
+852,2022-10-16-keegan-murray-SF4-Sacramento,2022-10-16,SF4,keegan,murray,active,Sacramento,4,SF,0,4
+853,2022-10-16-keon-ellis-SF5-Sacramento,2022-10-16,SF5,keon,ellis,active,Sacramento,5,SF,0,5
+854,2022-10-16-chima-moneke-SF6-Sacramento,2022-10-16,SF6,chima,moneke,active,Sacramento,6,SF,0,6
+855,2022-10-16-keegan-murray-PF1-Sacramento,2022-10-16,PF1,keegan,murray,active,Sacramento,1,PF,0,1
+856,2022-10-16-kz-okpala-PF2-Sacramento,2022-10-16,PF2,kz,okpala,active,Sacramento,2,PF,0,2
+857,2022-10-16-trey-lyles-PF3-Sacramento,2022-10-16,PF3,trey,lyles,active,Sacramento,3,PF,0,3
+858,2022-10-16-chimezie-metu-PF4-Sacramento,2022-10-16,PF4,chimezie,metu,active,Sacramento,4,PF,0,4
+859,2022-10-16-harrison-barnes-PF5-Sacramento,2022-10-16,PF5,harrison,barnes,active,Sacramento,5,PF,0,5
+860,2022-10-16-domantas-sabonis-PF6-Sacramento,2022-10-16,PF6,domantas,sabonis,active,Sacramento,6,PF,0,6
+861,2022-10-16-domantas-sabonis-C1-Sacramento,2022-10-16,C1,domantas,sabonis,active,Sacramento,1,C,0,1
+862,2022-10-16-richaun-holmes-C2-Sacramento,2022-10-16,C2,richaun,holmes,active,Sacramento,2,C,0,2
+863,2022-10-16-alex-len-C3-Sacramento,2022-10-16,C3,alex,len,active,Sacramento,3,C,0,3
+864,2022-10-16-chimezie-metu-C4-Sacramento,2022-10-16,C4,chimezie,metu,active,Sacramento,4,C,0,4
+865,2022-10-16-trey-lyles-C5-Sacramento,2022-10-16,C5,trey,lyles,active,Sacramento,5,C,0,5
+866,2022-10-16-neemias-queta-C6-Sacramento,2022-10-16,C6,neemias,queta,active,Sacramento,6,C,0,6
+867,2022-10-16-tre-jones-PG1-San Antonio,2022-10-16,PG1,tre,jones,active,San Antonio,1,PG,0,1
+868,2022-10-16-joshua-primo-PG2-San Antonio,2022-10-16,PG2,joshua,primo,active,San Antonio,2,PG,0,2
+869,2022-10-16-blake-wesley-PG3-San Antonio,2022-10-16,PG3,blake,wesley,active,San Antonio,3,PG,0,3
+870,2022-10-16-jordan-hall-PG4-San Antonio,2022-10-16,PG4,jordan,hall,active,San Antonio,4,PG,0,4
+871,2022-10-16-devin-vassell-SG1-San Antonio,2022-10-16,SG1,devin,vassell,active,San Antonio,1,SG,0,1
+872,2022-10-16-josh-richardson-SG2-San Antonio,2022-10-16,SG2,josh,richardson,active,San Antonio,2,SG,0,2
+873,2022-10-16-joshua-primo-SG3-San Antonio,2022-10-16,SG3,joshua,primo,active,San Antonio,3,SG,0,3
+874,2022-10-16-malaki-branham-SG4-San Antonio,2022-10-16,SG4,malaki,branham,active,San Antonio,4,SG,0,4
+875,2022-10-16-romeo-langford-SG5-San Antonio,2022-10-16,SG5,romeo,langford,active,San Antonio,5,SG,0,5
+876,2022-10-16-blake-wesley-SG6-San Antonio,2022-10-16,SG6,blake,wesley,active,San Antonio,6,SG,0,6
+877,2022-10-16-doug-mcdermott-SG7-San Antonio,2022-10-16,SG7,doug,mcdermott,active,San Antonio,7,SG,0,7
+878,2022-10-16-jeremy-sochan-SF1-San Antonio,2022-10-16,SF1,jeremy,sochan,active,San Antonio,1,SF,0,1
+879,2022-10-16-doug-mcdermott-SF2-San Antonio,2022-10-16,SF2,doug,mcdermott,active,San Antonio,2,SF,0,2
+880,2022-10-16-josh-richardson-SF3-San Antonio,2022-10-16,SF3,josh,richardson,active,San Antonio,3,SF,0,3
+881,2022-10-16-devin-vassell-SF4-San Antonio,2022-10-16,SF4,devin,vassell,active,San Antonio,4,SF,0,4
+882,2022-10-16-malaki-branham-SF5-San Antonio,2022-10-16,SF5,malaki,branham,active,San Antonio,5,SF,0,5
+883,2022-10-16-romeo-langford-SF6-San Antonio,2022-10-16,SF6,romeo,langford,active,San Antonio,6,SF,0,6
+884,2022-10-16-keita-bates-diop-SF7-San Antonio,2022-10-16,SF7,keita,bates-diop,active,San Antonio,7,SF,0,7
+885,2022-10-16-keldon-johnson-SF8-San Antonio,2022-10-16,SF8,keldon,johnson,active,San Antonio,8,SF,0,8
+886,2022-10-16-dominick-barlow-SF9-San Antonio,2022-10-16,SF9,dominick,barlow,active,San Antonio,9,SF,0,9
+887,2022-10-16-joe-wieskamp-SF10-San Antonio,2022-10-16,SF10,joe,wieskamp,active,San Antonio,10,SF,0,10
+888,2022-10-16-keldon-johnson-PF1-San Antonio,2022-10-16,PF1,keldon,johnson,active,San Antonio,1,PF,0,1
+889,2022-10-16-zach-collins-PF2-San Antonio,2022-10-16,PF2,zach,collins,active,San Antonio,2,PF,0,2
+890,2022-10-16-jeremy-sochan-PF3-San Antonio,2022-10-16,PF3,jeremy,sochan,active,San Antonio,3,PF,0,3
+891,2022-10-16-doug-mcdermott-PF4-San Antonio,2022-10-16,PF4,doug,mcdermott,active,San Antonio,4,PF,0,4
+892,2022-10-16-keita-bates-diop-PF5-San Antonio,2022-10-16,PF5,keita,bates-diop,active,San Antonio,5,PF,0,5
+893,2022-10-16-devin-vassell-PF6-San Antonio,2022-10-16,PF6,devin,vassell,active,San Antonio,6,PF,0,6
+894,2022-10-16-isaiah-roby-PF7-San Antonio,2022-10-16,PF7,isaiah,roby,active,San Antonio,7,PF,0,7
+895,2022-10-16-joe-wieskamp-PF8-San Antonio,2022-10-16,PF8,joe,wieskamp,active,San Antonio,8,PF,0,8
+896,2022-10-16-jakob-poeltl-C1-San Antonio,2022-10-16,C1,jakob,poeltl,active,San Antonio,1,C,0,1
+897,2022-10-16-zach-collins-C2-San Antonio,2022-10-16,C2,zach,collins,active,San Antonio,2,C,0,2
+898,2022-10-16-gorgui-dieng-C3-San Antonio,2022-10-16,C3,gorgui,dieng,active,San Antonio,3,C,0,3
+899,2022-10-16-isaiah-roby-C4-San Antonio,2022-10-16,C4,isaiah,roby,active,San Antonio,4,C,0,4
+900,2022-10-16-jeremy-sochan-C5-San Antonio,2022-10-16,C5,jeremy,sochan,active,San Antonio,5,C,0,5
+901,2022-10-16-fred-vanvleet-PG1-Toronto,2022-10-16,PG1,fred,vanvleet,active,Toronto,1,PG,0,1
+902,2022-10-16-malachi-flynn-PG2-Toronto,2022-10-16,PG2,malachi,flynn,active,Toronto,2,PG,0,2
+903,2022-10-16-dalano-banton-PG3-Toronto,2022-10-16,PG3,dalano,banton,active,Toronto,3,PG,0,3
+904,2022-10-16-scottie-barnes-PG4-Toronto,2022-10-16,PG4,scottie,barnes,active,Toronto,4,PG,0,4
+905,2022-10-16-jeff-dowtin-PG5-Toronto,2022-10-16,PG5,jeff,dowtin,active,Toronto,5,PG,0,5
+906,2022-10-16-gary-trent-jr.-SG1-Toronto,2022-10-16,SG1,gary,trent-jr.,active,Toronto,1,SG,0,1
+907,2022-10-16-malachi-flynn-SG3-Toronto,2022-10-16,SG3,malachi,flynn,active,Toronto,3,SG,0,3
+908,2022-10-16-dalano-banton-SG2-Toronto,2022-10-16,SG2,dalano,banton,active,Toronto,2,SG,0,2
+909,2022-10-16-fred-vanvleet-SG4-Toronto,2022-10-16,SG4,fred,vanvleet,active,Toronto,4,SG,0,4
+910,2022-10-16-og-anunoby-SG5-Toronto,2022-10-16,SG5,og,anunoby,active,Toronto,5,SG,0,5
+911,2022-10-16-jeff-dowtin-SG6-Toronto,2022-10-16,SG6,jeff,dowtin,active,Toronto,6,SG,0,6
+912,2022-10-16-og-anunoby-SF1-Toronto,2022-10-16,SF1,og,anunoby,active,Toronto,1,SF,0,1
+913,2022-10-16-otto-porter-jr.-SF2-Toronto,2022-10-16,SF2,otto,porter-jr.,injured,Toronto,2,SF,0,2
+914,2022-10-16-justin-champagnie-SF3-Toronto,2022-10-16,SF3,justin,champagnie,active,Toronto,3,SF,1,2
+915,2022-10-16-thaddeus-young-SF4-Toronto,2022-10-16,SF4,thaddeus,young,active,Toronto,4,SF,1,3
+916,2022-10-16-gary-trent-jr.-SF5-Toronto,2022-10-16,SF5,gary,trent-jr.,active,Toronto,5,SF,1,4
+917,2022-10-16-scottie-barnes-SF6-Toronto,2022-10-16,SF6,scottie,barnes,active,Toronto,6,SF,1,5
+918,2022-10-16-ron-harper-jr.-SF7-Toronto,2022-10-16,SF7,ron,harper-jr.,active,Toronto,7,SF,1,6
+919,2022-10-16-scottie-barnes-PF1-Toronto,2022-10-16,PF1,scottie,barnes,active,Toronto,1,PF,0,1
+920,2022-10-16-chris-boucher-PF2-Toronto,2022-10-16,PF2,chris,boucher,active,Toronto,2,PF,0,2
+921,2022-10-16-otto-porter-jr.-PF3-Toronto,2022-10-16,PF3,otto,porter-jr.,injured,Toronto,3,PF,0,3
+922,2022-10-16-thaddeus-young-PF4-Toronto,2022-10-16,PF4,thaddeus,young,active,Toronto,4,PF,1,3
+923,2022-10-16-juancho-hernangomez-PF5-Toronto,2022-10-16,PF5,juancho,hernangomez,active,Toronto,5,PF,1,4
+924,2022-10-16-pascal-siakam-PF6-Toronto,2022-10-16,PF6,pascal,siakam,active,Toronto,6,PF,1,5
+925,2022-10-16-justin-champagnie-PF7-Toronto,2022-10-16,PF7,justin,champagnie,active,Toronto,7,PF,1,6
+926,2022-10-16-precious-achiuwa-PF8-Toronto,2022-10-16,PF8,precious,achiuwa,active,Toronto,8,PF,1,7
+927,2022-10-16-og-anunoby-PF9-Toronto,2022-10-16,PF9,og,anunoby,active,Toronto,9,PF,1,8
+928,2022-10-16-ron-harper-jr.-PF10-Toronto,2022-10-16,PF10,ron,harper-jr.,active,Toronto,10,PF,1,9
+929,2022-10-16-pascal-siakam-C1-Toronto,2022-10-16,C1,pascal,siakam,active,Toronto,1,C,0,1
+930,2022-10-16-precious-achiuwa-C2-Toronto,2022-10-16,C2,precious,achiuwa,active,Toronto,2,C,0,2
+931,2022-10-16-khem-birch-C3-Toronto,2022-10-16,C3,khem,birch,active,Toronto,3,C,0,3
+932,2022-10-16-chris-boucher-C4-Toronto,2022-10-16,C4,chris,boucher,active,Toronto,4,C,0,4
+933,2022-10-16-thaddeus-young-C5-Toronto,2022-10-16,C5,thaddeus,young,active,Toronto,5,C,0,5
+934,2022-10-16-christian-koloko-C6-Toronto,2022-10-16,C6,christian,koloko,active,Toronto,6,C,0,6
+935,2022-10-16-og-anunoby-C7-Toronto,2022-10-16,C7,og,anunoby,active,Toronto,7,C,0,7
+936,2022-10-16-mike-conley-PG1-Utah,2022-10-16,PG1,mike,conley,active,Utah,1,PG,0,1
+937,2022-10-16-jordan-clarkson-PG2-Utah,2022-10-16,PG2,jordan,clarkson,active,Utah,2,PG,0,2
+938,2022-10-16-nickeil-alexander-walker-PG3-Utah,2022-10-16,PG3,nickeil,alexander-walker,active,Utah,3,PG,0,3
+939,2022-10-16-collin-sexton-PG4-Utah,2022-10-16,PG4,collin,sexton,active,Utah,4,PG,0,4
+940,2022-10-16-leandro-bolmaro-PG5-Utah,2022-10-16,PG5,leandro,bolmaro,active,Utah,5,PG,0,5
+941,2022-10-16-collin-sexton-SG1-Utah,2022-10-16,SG1,collin,sexton,active,Utah,1,SG,0,1
+942,2022-10-16-jordan-clarkson-SG3-Utah,2022-10-16,SG3,jordan,clarkson,active,Utah,3,SG,0,3
+943,2022-10-16-malik-beasley-SG2-Utah,2022-10-16,SG2,malik,beasley,active,Utah,2,SG,0,2
+944,2022-10-16-talen-horton-tucker-SG5-Utah,2022-10-16,SG5,talen,horton-tucker,active,Utah,5,SG,0,5
+945,2022-10-16-ochai-agbaji-SG4-Utah,2022-10-16,SG4,ochai,agbaji,active,Utah,4,SG,0,4
+946,2022-10-16-nickeil-alexander-walker-SG6-Utah,2022-10-16,SG6,nickeil,alexander-walker,active,Utah,6,SG,0,6
+947,2022-10-16-leandro-bolmaro-SG7-Utah,2022-10-16,SG7,leandro,bolmaro,active,Utah,7,SG,0,7
+948,2022-10-16-johnny-juzang-SG8-Utah,2022-10-16,SG8,johnny,juzang,active,Utah,8,SG,0,8
+949,2022-10-16-malik-beasley-SF4-Utah,2022-10-16,SF4,malik,beasley,active,Utah,4,SF,0,4
+950,2022-10-16-talen-horton-tucker-SF2-Utah,2022-10-16,SF2,talen,horton-tucker,active,Utah,2,SF,0,2
+951,2022-10-16-ochai-agbaji-SF3-Utah,2022-10-16,SF3,ochai,agbaji,active,Utah,3,SF,0,3
+952,2022-10-16-simone-fontecchio-SF5-Utah,2022-10-16,SF5,simone,fontecchio,active,Utah,5,SF,0,5
+953,2022-10-16-lauri-markkanen-SF1-Utah,2022-10-16,SF1,lauri,markkanen,active,Utah,1,SF,0,1
+954,2022-10-16-rudy-gay-SF6-Utah,2022-10-16,SF6,rudy,gay,active,Utah,6,SF,0,6
+955,2022-10-16-leandro-bolmaro-SF7-Utah,2022-10-16,SF7,leandro,bolmaro,active,Utah,7,SF,0,7
+956,2022-10-16-johnny-juzang-SF8-Utah,2022-10-16,SF8,johnny,juzang,active,Utah,8,SF,0,8
+957,2022-10-16-lauri-markkanen-PF3-Utah,2022-10-16,PF3,lauri,markkanen,active,Utah,3,PF,0,3
+958,2022-10-16-jarred-vanderbilt-PF1-Utah,2022-10-16,PF1,jarred,vanderbilt,active,Utah,1,PF,0,1
+959,2022-10-16-rudy-gay-PF2-Utah,2022-10-16,PF2,rudy,gay,active,Utah,2,PF,0,2
+960,2022-10-16-kelly-olynyk-PF4-Utah,2022-10-16,PF4,kelly,olynyk,active,Utah,4,PF,0,4
+961,2022-10-16-kelly-olynyk-C1-Utah,2022-10-16,C1,kelly,olynyk,active,Utah,1,C,0,1
+962,2022-10-16-walker-kessler-C2-Utah,2022-10-16,C2,walker,kessler,active,Utah,2,C,0,2
+963,2022-10-16-udoka-azubuike-C3-Utah,2022-10-16,C3,udoka,azubuike,active,Utah,3,C,0,3
+964,2022-10-16-jarred-vanderbilt-C4-Utah,2022-10-16,C4,jarred,vanderbilt,active,Utah,4,C,0,4
+965,2022-10-16-rudy-gay-C6-Utah,2022-10-16,C6,rudy,gay,active,Utah,6,C,0,6
+966,2022-10-16-micah-potter-C5-Utah,2022-10-16,C5,micah,potter,active,Utah,5,C,0,5
+967,2022-10-16-monte-morris-PG1-Washington,2022-10-16,PG1,monte,morris,active,Washington,1,PG,0,1
+968,2022-10-16-delon-wright-PG2-Washington,2022-10-16,PG2,delon,wright,active,Washington,2,PG,0,2
+969,2022-10-16-johnny-davis-PG3-Washington,2022-10-16,PG3,johnny,davis,active,Washington,3,PG,0,3
+970,2022-10-16-bradley-beal-PG4-Washington,2022-10-16,PG4,bradley,beal,active,Washington,4,PG,0,4
+971,2022-10-16-jordan-goodwin-PG5-Washington,2022-10-16,PG5,jordan,goodwin,active,Washington,5,PG,0,5
+972,2022-10-16-bradley-beal-SG1-Washington,2022-10-16,SG1,bradley,beal,active,Washington,1,SG,0,1
+973,2022-10-16-johnny-davis-SG2-Washington,2022-10-16,SG2,johnny,davis,active,Washington,2,SG,0,2
+974,2022-10-16-corey-kispert-SG3-Washington,2022-10-16,SG3,corey,kispert,active,Washington,3,SG,0,3
+975,2022-10-16-will-barton-SG4-Washington,2022-10-16,SG4,will,barton,active,Washington,4,SG,0,4
+976,2022-10-16-delon-wright-SG5-Washington,2022-10-16,SG5,delon,wright,active,Washington,5,SG,0,5
+977,2022-10-16-deni-avdija-SG6-Washington,2022-10-16,SG6,deni,avdija,active,Washington,6,SG,0,6
+978,2022-10-16-jordan-schakel-SG7-Washington,2022-10-16,SG7,jordan,schakel,active,Washington,7,SG,0,7
+979,2022-10-16-will-barton-SF1-Washington,2022-10-16,SF1,will,barton,active,Washington,1,SF,0,1
+980,2022-10-16-deni-avdija-SF2-Washington,2022-10-16,SF2,deni,avdija,active,Washington,2,SF,0,2
+981,2022-10-16-corey-kispert-SF3-Washington,2022-10-16,SF3,corey,kispert,active,Washington,3,SF,0,3
+982,2022-10-16-rui-hachimura-SF4-Washington,2022-10-16,SF4,rui,hachimura,active,Washington,4,SF,0,4
+983,2022-10-16-johnny-davis-SF5-Washington,2022-10-16,SF5,johnny,davis,active,Washington,5,SF,0,5
+984,2022-10-16-anthony-gill-SF6-Washington,2022-10-16,SF6,anthony,gill,active,Washington,6,SF,0,6
+985,2022-10-16-kyle-kuzma-SF7-Washington,2022-10-16,SF7,kyle,kuzma,active,Washington,7,SF,0,7
+986,2022-10-16-bradley-beal-SF8-Washington,2022-10-16,SF8,bradley,beal,active,Washington,8,SF,0,8
+987,2022-10-16-jordan-schakel-SF9-Washington,2022-10-16,SF9,jordan,schakel,active,Washington,9,SF,0,9
+988,2022-10-16-kyle-kuzma-PF1-Washington,2022-10-16,PF1,kyle,kuzma,active,Washington,1,PF,0,1
+989,2022-10-16-rui-hachimura-PF2-Washington,2022-10-16,PF2,rui,hachimura,active,Washington,2,PF,0,2
+990,2022-10-16-deni-avdija-PF3-Washington,2022-10-16,PF3,deni,avdija,active,Washington,3,PF,0,3
+991,2022-10-16-anthony-gill-PF4-Washington,2022-10-16,PF4,anthony,gill,active,Washington,4,PF,0,4
+992,2022-10-16-kristaps-porzingis-PF5-Washington,2022-10-16,PF5,kristaps,porzingis,active,Washington,5,PF,0,5
+993,2022-10-16-isaiah-todd-PF6-Washington,2022-10-16,PF6,isaiah,todd,active,Washington,6,PF,0,6
+994,2022-10-16-kristaps-porzingis-C1-Washington,2022-10-16,C1,kristaps,porzingis,active,Washington,1,C,0,1
+995,2022-10-16-daniel-gafford-C2-Washington,2022-10-16,C2,daniel,gafford,active,Washington,2,C,0,2
+996,2022-10-16-taj-gibson-C3-Washington,2022-10-16,C3,taj,gibson,active,Washington,3,C,0,3
+997,2022-10-16-vernon-carey-jr.-C4-Washington,2022-10-16,C4,vernon,carey-jr.,active,Washington,4,C,0,4
+998,2022-10-16-isaiah-todd-C5-Washington,2022-10-16,C5,isaiah,todd,active,Washington,5,C,0,5
+999,2022-10-16-kyle-kuzma-C6-Washington,2022-10-16,C6,kyle,kuzma,active,Washington,6,C,0,6
+1000,2022-10-16-rui-hachimura-C7-Washington,2022-10-16,C7,rui,hachimura,active,Washington,7,C,0,7
+1001,2022-10-16-yannick-nzosa-C8-Washington,2022-10-16,C8,yannick,nzosa,active,Washington,8,C,0,8
